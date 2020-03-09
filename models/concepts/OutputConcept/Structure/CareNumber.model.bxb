@@ -1,0 +1,3 @@
+text (CareNumber) {
+  description (보호소전화번호)
+}

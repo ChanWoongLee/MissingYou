@@ -1,0 +1,35 @@
+train (t-z7e00utmdi78gud5bj9ab2450) {
+  utterance ("[g:Results] (춘천)[v:County]주변에 (시츄)[v:KeyWord]를 잃어버렸다.")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCNVYlzfmleSSUO071TK8Pzi1IYmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1571067574430)
+}
+train (t-z9x1xyeubp15tjbjoblpr53s4) {
+  utterance ("[g:Results] (스코티시폴드)[v:KeyWord] (서울시)[v:City] 주변의 (영등포)[v:County] 안에서 찾아주면돼")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklgzR2qfzSPKAkdou9UyvD84tSGFgYGBmYGJiBNAOQBYEwABKDygEA)
+  last-modified (1571070449221)
+}
+train (t-zjk7suq3vu5ds6djgndzlempi) {
+  utterance (" [g:Results] (패르시안)[v:KeyWord] 고양이들을 보여줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571070438862)
+}
+train (t-zlow9gsx4dx5mrzav1alakt0m) {
+  utterance (" [g:Results] (셀커크렉스)[v:KeyWord]도 (경북)[v:City] (구미)[v:County]에서 분실했어")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklgzR2qfzSPKAkdou9UyvD84tSGFgYGBmYGJiBNAOQBYEwABKDygEA)
+  last-modified (1571070452050)
+}
+train (t-zocyn66y11tfmcu2pw1qcj5e4) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (3월 10일부터 4월 5일까지)[v:time.DateTimeExpression]} 잃어버린 (코숏)[v:KeyWord]을 찾아줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1570602008043)
+}
+train (t-zpsbfiab7nuc9i3fhx7j0nwet) {
+  utterance ("[g:Results]없어진 (싱가푸라)[v:KeyWord] 중에 (부산)[v:City]에서 없어진거 검색해줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571070262256)
+}
+train (t-zz323xkaoe272umboqii95wd1) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (4월)[v:time.DateTimeExpression]} 중에 (코리안숏헤어)[v:KeyWord] 보여줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068707509)
+}

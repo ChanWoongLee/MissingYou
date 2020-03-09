@@ -1,0 +1,63 @@
+action (SearchAnimal) {
+  description (잃어버린 반려동물 찾기)
+  collect {
+  input (keyword) {
+      type (KeyWord)
+      min (Required) max (One)
+      default-init{
+        intent{
+          goal: KeyWord
+          value: KeyWord(강아지)
+        }
+      }
+    }
+      input (city) {
+      type (City)
+      min (Optional) max (One)
+    }
+      input (county) {
+      type (County)
+      min (Optional) max (One)
+    }
+    input (adoption) {
+      type (Adoption)
+      min (Optional) max (One)
+    }
+  input (dateTimeExpression) {
+     type (CustomDateTimeExpression)
+     min (Optional) max (One)
+     default-select{
+      with-rule {
+      if (dateTimeExpression[0].dateInterval.start.year == 2020 || dateTimeExpression[0].date.year == 2020) {
+      select-first {
+        sort-key (ASC) {
+      binding (dateInterval.start.year)
+        }
+        sort-key (ASC) {
+      binding (dateInterval.end.year)
+        }
+        sort-key (ASC) {
+      binding (date.year)
+        }
+      }
+    } else {
+        select-first {
+          sort-key (DESC) {
+            binding (dateInterval.start.year)
+          }
+          sort-key (DESC) {
+            binding (dateInterval.end.year)
+          }
+          sort-key (DESC) {
+            binding (date.year)
+          }
+       }
+      }
+     }
+    }      
+   }
+  }
+    type(Search)
+  output (Results)
+
+  }

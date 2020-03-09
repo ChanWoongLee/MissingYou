@@ -1,0 +1,45 @@
+train (t-w41x7ppcu7py7dg8zsoe6qvaz) {
+  utterance ("  [g:Results] (푸들)[v:KeyWord]들이 사라졌어 (인천)[v:City] 근경 인거같아 찾고싶어")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571070412759)
+}
+train (t-w7hlp8c9hx8ynddz952ubxjij) {
+  utterance ("[g:Results] (터키시앙고라)[v:KeyWord]를 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570548588074)
+}
+train (t-w885iiig2210w3rg2iywyujo9) {
+  utterance ("[g:Results] (골든 리트리버)[v:KeyWord]를 잃어버렸어")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570549055864)
+}
+train (t-wgtff5gq0ogypjpi6nzbpbsqf) {
+  utterance ("[g:Results] (서초)[v:County]에서 (웰시코기)[v:KeyWord] 찾아줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCNVYlzfmleSSUO071TK8Pzi1IYmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1570549855461)
+}
+train (t-wl8k8f60rkabpm3stxyf924d7) {
+  utterance ("[g:Results](경북)[v:City]지역 부근에서 고양이인 (터키시안고라)[v:KeyWord]가 사라졌어")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571070529259)
+}
+train (t-wsyhcb5aq0uwhfkjitye9g0wt) {
+  utterance ("[g:Results] 미씽유에서 (스피츠)[v:KeyWord] 검색해줘라")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570544251910)
+}
+train (t-wwwbo7tbcyzy3jtf2vu9h7dde) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (2월)[v:viv.time.DateTimeExpression]} 기간동안 (노르왜이숲)[v:KeyWord] 발견해줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571071880129)
+}
+train (t-wxyh8doddfh767mmf5trgsjsu) {
+  utterance ("[g:Results] 미씽유에서 (푸들)[v:KeyWord] 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570544021102)
+}
+train (t-wzobitz7mhmd7x9l79re9iqmd) {
+  utterance ("[g:Results] (고양시)[v:County]에서 (강아지)[v:KeyWord] 찾아줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCNVYlzfmleSSUO071TK8Pzi1IYmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1571066434762)
+}

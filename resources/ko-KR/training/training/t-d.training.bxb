@@ -1,0 +1,45 @@
+train (t-d2esnh5gun7kh43karkzph8f7) {
+  utterance ("[g:Results] (맹크스)[v:KeyWord]가 {[g:CustomDateTimeExpression] (2월)[v:viv.time.DateTimeExpression]} 동안에 가출했어")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571071871350)
+}
+train (t-d3dlfchjk8uid9bdqq3buesgx) {
+  utterance ("[g:Results] (샴)[v:KeyWord] 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570549054771)
+}
+train (t-dbydtebs9nici3ixr00qb0qka) {
+  utterance ("[g:Results] (그레이트덴)[v:KeyWord]을 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570542045369)
+}
+train (t-ddaixygatit71wo7yh5utyh5b) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (이틀전)[v:time.DateTimeExpression]} 강아지를 (말라뮤트)[v:KeyWord] 종을 잃어버렸어")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571069507462)
+}
+train (t-drfibh21nrmorbomdroqnzgg3) {
+  utterance ("[g:Results] (시흥)[v:County]만 강아지 (비글)[v:KeyWord]을 찾아봐줄래")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCNVYlzfmleSSUO071TK8Pzi1IYmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1571069653113)
+}
+train (t-drmdcwhmzuo21n68f41fiasps) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (9월 21일)[v:time.DateTimeExpression]}에 잃어버린 (골든 리트리버)[v:KeyWord] 찾아줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1570114976842)
+}
+train (t-dt5h1nqao8lu47a0phuxiu7yo) {
+  utterance ("[g:Results] (메인쿤)[v:KeyWord] {[g:CustomDateTimeExpression] (6월 22일)[v:time.DateTimeExpression]}에 분실했는데 보여줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068018236)
+}
+train (t-dungeocu8zud0yexp5flqvgv4) {
+  utterance ("[g:Results] (강아지)[v:KeyWord] 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570549054846)
+}
+train (t-duofl9aokmyxnaz2kgrg3efdz) {
+  utterance (" [g:Results] {[g:CustomDateTimeExpression] (3월)[v:time.DateTimeExpression]} 동안의 기간에 (서울시)[v:County] 근방 (마포구)[v:County]에서 (벵갈)[v:KeyWord]이 가출했어")
+  plan (pY89DsIwDIWd0hYGblAWDkDugICJDZCYU7CopSZB+ama2+MwhwlbtvT8vTcYVrAhM6ie5j5JTd6TeSUb5QV9HIOHbZFeUbnHsDek1Qhd0XKw0YT0B9yVYfTB6qMKeCONp/ntkJk1P944Y7pb94RuokkGTshCdAkCKlhADQ20rOCrK96CL4L1mjtXzdPyZG/LLCebDw==)
+  last-modified (1571070465084)
+}

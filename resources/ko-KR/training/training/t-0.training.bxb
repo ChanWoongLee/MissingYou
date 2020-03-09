@@ -1,0 +1,15 @@
+train (t-0i5ozsa8h6xjnnx3vwvoz9lsa) {
+  utterance (" [g:Results] {[g:CustomDateTimeExpression] (이번달)[v:time.DateTimeExpression]} 까지 들어온 (강아지)[v:KeyWord] 들을 보여줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571070417732)
+}
+train (t-0q2bjfx2reemy1iojxtaic03q) {
+  utterance ("[g:Results] 미싱유에 (불테리어)[v:KeyWord] 종을 찾을 수 있겠니")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571069549120)
+}
+train (t-0vcgfvajktqfwxylmubvk5pqu) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (9월26일부터 9월27일)[v:time.DateTimeExpression]}까지 (포메라니안)[v:KeyWord] 찾아줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1570114760701)
+}

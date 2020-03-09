@@ -1,0 +1,10 @@
+train (t-28ysxryidxds8dh3lvhu0o9q4) {
+  utterance ("[g:Results] (대구)[v:City]에서 (쉽독)[v:KeyWord]을 찾아줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571287906881)
+}
+train (t-2rwfkw4rry0q6teyae5npb9x2) {
+  utterance ("[g:Results] (에 어 데일)[v:KeyWord]만 보여줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571292812944)
+}

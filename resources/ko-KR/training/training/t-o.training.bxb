@@ -1,0 +1,25 @@
+train (t-o335f489kdutg6qkxpuzz5g5t) {
+  utterance (" [g:Results] {[g:CustomDateTimeExpression] (지난밤)[v:time.DateTimeExpression]}쯤에 (불독)[v:KeyWord]들이 사라졌는데 어디서 찾아")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571070413636)
+}
+train (t-ogm0lge83q8i5tb5ap5m6ci69) {
+  utterance ("[g:Results] (노르웨이숲)[v:KeyWord] 발견해줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571071876943)
+}
+train (t-ogpkgqt4jmblxneicwcauhglc) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (이번주)[v:time.DateTimeExpression]}에 공고끝나는 (닥스훈트)[v:KeyWord]만 알려줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1570115019539)
+}
+train (t-op78u6vkynkew698f7svklmau) {
+  utterance ("[g:Results] (서울시)[v:City]의 부근에서의 (마포구)[v:County]의 근방정도에 (스핑크스)[v:KeyWord] 고양이 종류들을 모두 보여주세요")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklgzR2qfzSPKAkdou9UyvD84tSGFgYGBmYGJiBNAOQBYEwABKDygEA)
+  last-modified (1571070022266)
+}
+train (t-osv944p5upkz7pt3top18wepn) {
+  utterance ("[g:Results] (부천)[v:County]에서 (숏헤어)[v:KeyWord] 찾아줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCNVYlzfmleSSUO071TK8Pzi1IYmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1570549798523)
+}

@@ -1,0 +1,65 @@
+train (t-k93atogqtgwlqof1jaorh62ph) {
+  utterance ("[g:Results] (고양이)[v:KeyWord] 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571070910007)
+}
+train (t-ke91yt0z6sooxj9o0ns8zx123) {
+  utterance ("[g:Results] (서울특별시)[v:City] (강남구)[v:County]에서 잃어버렸어")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklgzR2qfzSPKAkdou9UyvD84tSGFgYGBmYGJiBNAOQBYEwwAzEIDkGAA==)
+  last-modified (1570549768994)
+}
+train (t-kemyszlptgfynypmi864hkfdw) {
+  utterance ("[g:Results] (광주)[v:City]에서 발견된 (시츄)[v:KeyWord] 보여줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1570549775444)
+}
+train (t-kl2y8b9khyv3vzn5wkt6ri7c0) {
+  utterance (" [g:Results] {[g:CustomDateTimeExpression] (5월 5일)[v:time.DateTimeExpression]}에 (스파니엘)[v:KeyWord]이 집을 나갔어  ")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571070415569)
+}
+train (t-klnfv53zkc72jg462zihca5k2) {
+  utterance ("[g:Results] (대전)[v:City]에서 (강아지)[v:KeyWord] 잃어버렸어")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1570549781879)
+}
+train (t-kn2mkqxn6ac3c756dqg4gmh5b) {
+  utterance ("[g:Results] (골든리트리버)[v:KeyWord] 목록 보여줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570550479252)
+}
+train (t-knckewqwe5kmigjz9cdejogyi) {
+  utterance ("[g:Results] (서울시)[v:City]의 근방에서의 (마포구)[v:County] 근방에 사라진 고양이들 중에 (시베리안포레스트)[v:KeyWord]만 찾아봐")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklgzR2qfzSPKAkdou9UyvD84tSGFgYGBmYGJiBNAOQBYEwABKDygEA)
+  last-modified (1571070083180)
+}
+train (t-kny36d4neqssfutwqmktw8lgx) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (9월 20일)[v:time.DateTimeExpression]} (포메라니안)[v:KeyWord] 찾아줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1570115011280)
+}
+train (t-ko2qgtjeoom5asjztxa94fjuy) {
+  utterance ("[g:Results] 다른 강아지 말고 (포메)[v:KeyWord]만 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571069751698)
+}
+train (t-kt5wr258yprljavfg972zeolm) {
+  utterance (" [g:Results] {[g:CustomDateTimeExpression] (3월)[v:time.DateTimeExpression]}의 기간에 (서울시)[v:City] (마포구)[v:County] 근방에서 (버만)[v:KeyWord]을 잃어버렸는데 찾아줘봐")
+  plan (dY7NCsIwEIRHTfUZpF58APMOop68qeA51WAXmkTyU5q3d4N4i7sM7PDNwGKFDdledTR1WRoKgewruyQvOqQhBmyr9KqVf/R7S0YNWFcjB4oZbR25ZBnu6jCF6MxRRX0jo0/T22tmzv7586zz3fkn2pFGGbkhK9UlZphjAYGGb7D7rmD9RrAKK7mGXemIDw==)
+  last-modified (1571070456554)
+}
+train (t-kvkw1kbwr7aazf4sh7xceagim) {
+  utterance ("[g:Results] (고양이)[v:KeyWord] 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570200375110)
+}
+train (t-kw2xueo8o0n6u034d0id25r0d) {
+  utterance ("[g:Results] (스탠다드 푸들)[v:KeyWord] 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570549055363)
+}
+train (t-kwibldobkervt1yw51p2x8urq) {
+  utterance (" [g:Results] (용인시)[v:County]에서 (아메리칸 코카스파니엘)[v:KeyWord]들 발견된거 있니")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCNVYlzfmleSSUO071TK8Pzi1IYmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1571070410701)
+}

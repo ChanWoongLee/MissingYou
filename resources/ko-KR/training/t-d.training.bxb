@@ -1,0 +1,15 @@
+train (t-dxrn398r6ketwk202hxgazcwd) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (작년 6월)[v:time.DateTimeExpression]} (보더 콜리)[v:KeyWord] 찾아줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571287149298)
+}
+train (t-dzg33gvup8604pjxlsusp3owa) {
+  utterance ("[g:Results] (경기)[v:City]도 (부천시)[v:County]에서 잃어버린 (푸들)[v:KeyWord] 찾아줘라")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklgzR2qfzSPKAkdou9UyvD84tSGFgYGBmYGJiBNAOQBYEwABKDygEA)
+  last-modified (1571320970054)
+}
+train (t-dzt8hnd3koctftoeddqryjzos) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (작년9월)[v:time.DateTimeExpression]} (강아지)[v:KeyWord] 잃어버림")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571504910991)
+}

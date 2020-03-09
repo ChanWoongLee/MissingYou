@@ -1,0 +1,5 @@
+train (t-l42hw6jp1qe3vt9rbpq2u3cwd) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (3월 7일)[v:time.DateTimeExpression]} 날에 (노르웨이숲)[v:KeyWord] 고양이 알려줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068879742)
+}

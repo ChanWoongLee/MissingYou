@@ -1,0 +1,20 @@
+train (t-f5olnzdyf0vr90e4a79su653d) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (8월 2일)[v:time.DateTimeExpression]} (랙돌)[v:KeyWord]을 분실했었어")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068608287)
+}
+train (t-f950ipqb9lpiriv1velgdmnas) {
+  utterance ("[g:Results] 잃어버렸어 (미니어쳐 푸들)[v:KeyWord]")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570175157133)
+}
+train (t-fmuoq5iq1m0i88oiqg3sje4fd) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (9월 20일)[v:time.DateTimeExpression]}에 잃어버린 (골든 리트리버)[v:KeyWord] 찾아줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1570114985910)
+}
+train (t-fqpp3mymex7gc51dyk5oi525o) {
+  utterance ("[g:Results] (포메라니안)[v:KeyWord] 잃어버렸어")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570549054941)
+}

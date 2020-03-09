@@ -1,0 +1,30 @@
+input-view{
+  match: KeyWord(this){
+    to-input: SearchAnimal(action)
+  }
+  
+  message{
+    template-macro (1_2_Mypet_NoResult)
+  }
+  
+  render{
+    form{
+      elements{
+        text-input{
+          id (keyword)
+          label (어떤 강아지인지 다시 말씀해주세요.)
+          type (KeyWord)
+          max-length (50)
+        }
+      }
+      on-submit{
+        goal: KeyWord
+        value: viv.core.FormElement(keyword)
+      }
+      submit-button{
+        template (검색하기)
+      }
+    }
+  }
+}
+

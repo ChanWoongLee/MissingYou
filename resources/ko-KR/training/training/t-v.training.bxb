@@ -1,0 +1,35 @@
+train (t-v1fzog8tsiofi9cco007b3sqs) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (6월 20)[v:time.DateTimeExpression]}일 전에 (래그돌라가머핀)[v:KeyWord]을 탐색해줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068511177)
+}
+train (t-v1oqyenr37t2x1uyh18g4o6ln) {
+  utterance ("[g:Results] (노르웨이숲)[v:KeyWord] 고양이 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570547532099)
+}
+train (t-vhkgbn3yx36lmivci1mzrtgig) {
+  utterance ("[g:Results] (고양이)[v:KeyWord] 좀 찾아봐줘 ")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570546503818)
+}
+train (t-vnpx20suqtbn897wo8f922ut4) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (어제)[v:time.DateTimeExpression]} (푸들)[v:KeyWord] 잃어버렸어")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1570550726519)
+}
+train (t-vo2uvf3exd92efja9mezt6ing) {
+  utterance ("[g:Results] (진도)[v:County]에서 {[g:CustomDateTimeExpression] (18년)[v:time.DateTimeExpression]}에서 사라진 (진도견)[v:KeyWord] 찾아줘")
+  plan (dY7BCsIwEETHpvoT9eIHmH8Q7cmbCp5TXexCk0iTlObv3eo17jLw2JmBxQZbdr3peO6ythwCu1f2SV8opCEG7Irulcz46A+OrRnQFCNHn1zM2JfNFKK3JxPpxpba+T2SeN79eeZM+e7HJ5qJJx2loQvVNVaooFALQXhZJfpNLVrulZD6ZtUH)
+  last-modified (1570549841319)
+}
+train (t-vsno7auaekggbg8kivztu17kg) {
+  utterance ("[g:Results] (강동)[v:County]에서 {[g:CustomDateTimeExpression] (2년 전)[v:time.DateTimeExpression]}에 발견된 (요크셔테리어)[v:KeyWord] 있어?")
+  plan (dY7BCsIwEETHpvoT9eIHmH8Q7cmbCp5TXexCk0iTlObv3eo17jLw2JmBxQZbdr3peO6ythwCu1f2SV8opCEG7Irulcz46A+OrRnQFCNHn1zM2JfNFKK3JxPpxpba+T2SeN79eeZM+e7HJ5qJJx2loQvVNVaooFALQXhZJfpNLVrulZD6ZtUH)
+  last-modified (1570549847950)
+}
+train (t-vyx6sagi2ftjp9t7pm05ig38k) {
+  utterance ("[g:Results] (치와와)[v:KeyWord]를 (부산)[v:City]에서 찾아줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571069412753)
+}

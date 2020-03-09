@@ -1,0 +1,5 @@
+train (t-42ix81nfyn1e5eswkbiyjtge6) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (어제부터 오늘)[v:time.DateTimeExpression]}까지 들어온 (코숏)[v:KeyWord] 보여줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571460264070)
+}

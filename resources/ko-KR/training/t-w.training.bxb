@@ -1,0 +1,10 @@
+train (t-w3dqu5yho9a950meoh3nitiz6) {
+  utterance ("[g:Results] (고양이)[v:KeyWord] 제발 통과좀")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571072461787)
+}
+train (t-w6utu681yv4quoa28rorb79a1) {
+  utterance ("[g:Results] (말티즈)[v:KeyWord] 잃어버려서 슬퍼 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571072357628)
+}

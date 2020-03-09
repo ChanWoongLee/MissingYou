@@ -1,0 +1,15 @@
+train (t-5l8h8oaot70nknmgadwsaq8pv) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (1년 전)[v:time.DateTimeExpression]}쯤 (동대문)[v:County] 주변에서 사라졌던 (강아지)[v:KeyWord] 보여줘")
+  plan (dY7BCsIwEETHpvoT9eIHmH8Q7cmbCp5TXexCk0iTlObv3eo17jLw2JmBxQZbdr3peO6ythwCu1f2SV8opCEG7Irulcz46A+OrRnQFCNHn1zM2JfNFKK3JxPpxpba+T2SeN79eeZM+e7HJ5qJJx2loQvVNVaooFALQXhZJfpNLVrulZD6ZtUH)
+  last-modified (1570549644309)
+}
+train (t-5lljc3zrg426s1qwlfbtr471v) {
+  utterance ("[g:Results] (페르시안)[v:KeyWord] 고양이 찾아줘라 ")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570546941818)
+}
+train (t-5wakswo0afn4t6ykxnnf7v9q5) {
+  utterance ("[g:Results] (스파니엘)[v:KeyWord]들을 검색해줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571069355385)
+}

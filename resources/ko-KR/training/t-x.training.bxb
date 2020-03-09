@@ -1,0 +1,15 @@
+train (t-x95geryt5avo38bonk1t61tbb) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (작년 6월)[v:time.DateTimeExpression]}에 잃어버린 (보더 콜리)[v:KeyWord] 찾아줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571287252858)
+}
+train (t-xs0tk37ac45vf4ogtigv2hp8w) {
+  utterance ("[g:Results] (여수)[v:County]에서 잃어버렸던 (신 가 푸라)[v:KeyWord]를 찾아주세요")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCNVYlzfmleSSUO071TK8Pzi1IYmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1571291784983)
+}
+train (t-xw2uk3ce2pzu8km4e4afh8ral) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (5월)[v:time.DateTimeExpression]}에 잃어버린 (브리티시 쇼트 헤어)[v:KeyWord]만 검색해줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571293948533)
+}

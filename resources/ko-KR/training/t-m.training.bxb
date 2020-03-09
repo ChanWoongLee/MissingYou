@@ -1,0 +1,10 @@
+train (t-mazut2lmrjv3lhh63jl49cao6) {
+  utterance ("[g:Results] (제주)[v:City]도 (서귀포시)[v:County]에서 잃어버렸던 (푸들)[v:KeyWord] 찾아줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklgzR2qfzSPKAkdou9UyvD84tSGFgYGBmYGJiBNAOQBYEwABKDygEA)
+  last-modified (1571288006884)
+}
+train (t-mnnd7o1wclmyr1y6ampy054lr) {
+  utterance ("[g:Results] (에 어 데일 테리어)[v:KeyWord] 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571292838838)
+}

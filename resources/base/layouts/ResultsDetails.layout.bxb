@@ -1,0 +1,373 @@
+layout {
+   match: Results (this)
+   mode (Details)
+   
+   content {
+      section {
+         content {
+            compound-card{
+               content{
+                  image-card{
+                     image-url("[#{value(profile)}]")
+                     aspect-ratio(1:1)
+                     image-object-fit (Cover)
+                     image-object-position (Top)
+                     text-position (Below)
+                     title-area{
+                        halign (Start)
+                        slot1{
+                              single-line{
+                                 text{   
+                                 style(Title_L)
+                                 value("#{value(kind)}")   
+                              }
+                              if (gender=='미상'){
+                              text{   
+                                 color (Green)
+                                 style(Title_L)
+                                 value(" #{value(gender)}")   
+                              }
+                              }
+                              else if(gender=='♂'){
+                                 
+                              text{   
+                                 color (Blue)
+                                 style(Title_L)
+                                 value(" #{value(gender)}")   
+                              }
+                              }
+                              else{
+                                 text{   
+                                 color (Red)
+                                 style(Title_L)
+                                 value(" #{value(gender)}")   
+                              }   
+                              }
+                              }   
+                        }
+                     }
+                  }
+               }
+            }
+            
+               hbox{
+          content{
+                  vbox{
+                     halign (Start)
+                     content{
+                        single-line{
+                           text{
+                              style(Detail_L_Soft)
+                              value("색상")
+                              color (Amber)
+                              }
+                           }
+                           single-line{
+                              text{
+                                 color (Amber)
+                                 style(Detail_L)
+                                 value("#{value(color)}")
+                              }
+                           }
+                     }
+                  }
+                  divider
+                  vbox{
+                     halign (Start)
+                     content{
+                        single-line{
+                           text{
+                              style(Detail_L_Soft)
+                              value("나이(추정)")
+                              color (Amber)
+                           }
+                        }
+                        single-line{
+                           text{
+                              color (Amber)
+                              style(Detail_L)
+                              value("#{value(age)}")
+                           }
+                        }
+                     }
+                  }
+                  divider
+                  vbox{
+                     halign (Start)
+                     content{
+                        single-line{
+                           text{
+                              style(Detail_L_Soft)
+                              value("체중")
+                           }
+                        }
+                        single-line{
+                           text{
+                              color (Amber)
+                              style(Detail_L)
+                              value("#{value(weight)}")
+                           }
+                        }
+                     }
+                  }
+                  divider
+                     vbox{
+                     halign (Start)
+                     content{
+                           single-line{
+                              text{
+                                 style(Detail_L_Soft)
+                                 value("중성화")
+                                 color (Amber)
+                              }
+                           }
+                           single-line{
+                              text{
+                                 color (Amber)
+                                 style(Detail_L)
+                                 value("#{value(neuterYN)}")
+                              }
+                           }
+                     }
+                  }
+          }
+        }
+
+            divider
+            hbox{
+               content{
+                  vbox{
+                     halign (Start)
+                     content{
+                           single-line{
+                              text{
+                                 style(Detail_L_Soft)
+                                 value("특징")
+                              }
+                           }
+                     }
+                  }
+               }
+            }
+            paragraph{
+               style(Title_XS)
+               value("#{value(specialMark)}")
+            }
+            divider
+            hbox{
+               content{
+                  vbox{
+                     halign (Start)
+                     content{
+                           single-line{
+                              text{
+                                 style(Detail_L_Soft)
+                                 value("발견 장소")
+                              }
+                           }
+                     }
+                  }
+               }
+            }
+               paragraph{
+               style(Title_XS)
+               value("#{value(happenPlace)}")
+            }
+
+            divider
+            hbox{
+               content{
+                  vbox{
+                     halign (Start)
+                     content{
+                           single-line{
+                              text{
+                                 style(Detail_L_Soft)
+                                 value("접수 일시")
+                              }
+                           }
+                           single-line{
+                              text{
+                                 style(Detail_L_Soft)
+                                 value("공고 기한")
+                              }
+                           }
+                           
+                           single-line{
+                              text{
+                                 style(Detail_L_Soft)
+                                 value("상태")
+                              }
+                           }
+                  
+               }
+            }
+                  vbox{
+                     halign (End)
+                     content{
+                           single-line{
+                              text{
+                                 style(Detail_L)
+                                 value("#{value(happenDate)}")
+                              }
+                           }
+                           single-line{
+                              text{
+                                 style(Detail_L)
+                                 value("#{value(noticeStart)}~#{value(noticeEnd)}")
+                              }
+                           }
+                           single-line{
+                              text{
+                                 style(Detail_L)
+                                 value("#{value(nowState)}")
+                              }
+                           }      
+                                   
+                        }
+                  }
+               }
+            }
+            
+            divider
+         
+            divider
+               title-area{ // if 문으로 state 보호중일 때 만 출력하도록
+                       
+                        halign (Center)
+                        slot1{
+                          if(nowState == '보호중'){
+                             single-line{
+                              text{
+                              color (Green)
+                              style(Title_XS)
+                              value("#{value(noticeEnd)} 이후부터 입양 가능합니다.")
+                              
+                           }
+                           }
+                        }else{
+                             single-line{
+                           }
+                        }
+                        }
+                        slot2{
+                           if(nowState == '보호중'){
+                          single-line{
+                              text{
+                              style(Detail_L_Soft)
+                              value("입양을 원하시면 아래 보호소에 문의 바랍니다.")
+                           }
+                          }
+                        }else{
+                             single-line{
+                           }
+                        }
+                        }
+                     }
+            divider
+         
+
+            hbox{
+               content{
+                  vbox{
+                     halign (Start)
+                     content{
+                           single-line{
+                              text{
+                                 style(Detail_L_Soft)
+                                 value("보호 센터")
+                              }
+                           }
+                           single-line{
+                              text{
+                                 style(Detail_L_Soft)
+                                 value("전화 번호")
+                              }
+                           }
+                  }
+               }
+                        vbox{
+                     halign (Start)
+                     content{
+                           single-line{
+                              text{
+                                 style(Detail_L)
+                                 value("#{value(carePlace)}")
+                              }
+                           }
+                        
+                           single-line{
+                              text{
+                                 style(Detail_L)
+                                 value("#{value(careNumber)}")
+                              }
+                           }
+                  }
+               }
+            }
+            }
+            divider
+                  hbox{
+          content{
+                  vbox{
+                     halign (Start)
+                     content{
+                        single-line{
+                           text{
+                              style(Detail_L_Soft)
+                              value("관활 기관")
+                              color (Amber)
+                              }
+                           }
+                           text{
+                              style(Detail_M)
+                              value("#{value(orgName)}")
+                           }
+                     }
+                  }
+                  divider
+                  vbox{
+                     halign (Start)
+                     content{
+                        single-line{
+                           text{
+                              style(Detail_L_Soft)
+                              value("담당자")
+                              color (Amber)
+                           }
+                        }
+                        text{
+                           style(Detail_M)
+                           value("#{value(chargeName)}")
+                        }
+                     }
+                  }
+                  divider
+                  vbox{
+                     halign (Start)
+                     content{
+                        single-line{
+                           text{
+                              style(Detail_L_Soft)
+                              value("연락처")
+                           }
+                        }
+                        text{
+                           style(Detail_M)
+                           value("#{value(chargeNumber)}")
+                        }
+                        
+                     }
+                  }
+          }
+        }
+            attribution-link{
+               label(유기동물 보호센터에서 더보기)
+               url("#{value(link)}")
+            }
+         }
+      }
+   }
+}
+
+

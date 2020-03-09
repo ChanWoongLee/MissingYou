@@ -1,0 +1,20 @@
+train (t-h1tq9ntlxfa4scqubxnthhcxv) {
+  utterance ("[g:Results] (인천광역시)[v:City] 중에서 (미추홀구)[v:County] 중에서 고양이 중에 (스코티쉬)[v:KeyWord]만을 검색해주세요")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklgzR2qfzSPKAkdou9UyvD84tSGFgYGBmYGJiBNAOQBYEwABKDygEA)
+  last-modified (1571069860341)
+}
+train (t-h6k813ilbk5r8m6et9izcqil3) {
+  utterance ("[g:Results] (서울시)[v:City] 근방의 (마포구)[v:County]의 부근에서 (스핑크스)[v:KeyWord] 고양이의 종류를 검색해서 알려줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklgzR2qfzSPKAkdou9UyvD84tSGFgYGBmYGJiBNAOQBYEwABKDygEA)
+  last-modified (1571070057249)
+}
+train (t-hdek8bb7k8sccvivlhlgf3t1v) {
+  utterance ("[g:Results] (그레이트 덴)[v:KeyWord]을 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570542067242)
+}
+train (t-hisivsjtq7q3ezbuz07mff37f) {
+  utterance ("[g:Results] (사모에드)[v:KeyWord] {[g:CustomDateTimeExpression] (10월 1일)[v:time.DateTimeExpression]} 날에 잊어버렸다")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571067547741)
+}

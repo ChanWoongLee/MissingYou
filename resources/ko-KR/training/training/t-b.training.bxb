@@ -1,0 +1,20 @@
+train (t-b4undzf0nfo39uq59d8br6klu) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (5월)[v:time.DateTimeExpression]} 초반에 (러시아블루)[v:KeyWord] 검색")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068264333)
+}
+train (t-b9xewhge2rkl3agfbul67c4um) {
+  utterance ("[g:Results] (렉돌)[v:KeyWord]을 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570550298616)
+}
+train (t-bkakgpzj1h07ekyzq1zrrx92z) {
+  utterance ("[g:Results] (달마시안)[v:KeyWord]만 (중랑)[v:County] 내에서 찾아줘라")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCNVYlzfmleSSUO071TK8Pzi1IYmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1571067434884)
+}
+train (t-bt94lqx8yc0xb9038ag02lug6) {
+  utterance ("[g:Results] (허스키)[v:KeyWord] 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570549451081)
+}

@@ -1,0 +1,35 @@
+train (t-jed11mnlrlj3268tukyirdupv) {
+  utterance ("[g:Results] (발리네즈)[v:KeyWord]도 {[g:CustomDateTimeExpression] (3월)[v:time.DateTimeExpression]} 동안에 없어졌어")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068100597)
+}
+train (t-jfugljjc4m3gf5vwal2tsvuab) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (5월 3일)[v:time.DateTimeExpression]} 전에 (블루)[v:KeyWord]를 찾아줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068462046)
+}
+train (t-jgvu982l3rygy4b6h6uio9ogm) {
+  utterance ("[g:Results] 고양이 (샴)[v:KeyWord]을 찾고있어")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571069380260)
+}
+train (t-jof1jgj5s4jqn0hxm6aulimao) {
+  utterance ("[g:Results] (쇼트헤어)[v:KeyWord] 고양이 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570547019570)
+}
+train (t-jse597nc48wsv8w1uwk0lcz5e) {
+  utterance ("[g:Results] (핏볼)[v:KeyWord] 좀 찾아봐")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570546603010)
+}
+train (t-jsibwsw1jebhcyihtrsqzn8g3) {
+  utterance ("[g:Results] (말티즈)[v:KeyWord] 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570549055164)
+}
+train (t-jun5vtour9yoas1hw1cb5rj4d) {
+  utterance ("[g:Results] (전라남도)[v:City]에서 발견된 (유기견)[v:KeyWord]들 보여줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1570549760933)
+}

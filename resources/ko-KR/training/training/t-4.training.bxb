@@ -1,0 +1,50 @@
+train (t-46yqwmebapq68li9kht82pn2j) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (오늘)[v:time.DateTimeExpression]} 들어온 (광주광역시)[v:City] (시츄)[v:KeyWord]들 다 불러줘")
+  plan (dY7BCsIwEETHpvoPohc/wPyDWE/eVPCc6mIXmkSStDR/71avcZeBx84MLFbYsutMy1ObteUY2b2yH/SF4tCniF3RvZIJj+7g2Joe62LkyCljX7aGmLxtTKIbWzpN70DieffnlTPluw9PbEYedZKGLlSXWKCCQi0E4XmV6De1aL5XQuqbVR8=)
+  last-modified (1570549623696)
+}
+train (t-47ytkhq55prw3n91aisvssmdh) {
+  utterance (" [g:Results] (부산)[v:City]에 (샤트룩스)[v:KeyWord]를 보여줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571070519382)
+}
+train (t-4e4l2c7x6q2hbd4qmwibg5xdh) {
+  utterance ("[g:Results] (울산)[v:City]에서 잃어버린 (강아지)[v:KeyWord] 찾아줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1570549630266)
+}
+train (t-4ebd5cjj574bsb63ud3upmchf) {
+  utterance ("[g:Results] (샴)[v:KeyWord]을 (대구광역시)[v:City] 근방에서 잃어버렸는데 찾아줘봐")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571070521702)
+}
+train (t-4g7rjnxdqppd4o18rkcxag3j9) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (3월)[v:time.DateTimeExpression]} 동안에 (코리아숏)[v:KeyWord] 분실했어")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068740485)
+}
+train (t-4j2xanzbnkpk5izrcssyuzgfs) {
+  utterance ("[g:Results] (포메라니안)[v:KeyWord] 찾아주세요")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571071866590)
+}
+train (t-4mik35txl5mcky0ezmtx7cfey) {
+  utterance (" [g:Results] (미추홀구)[v:County]에서 (스코티시폴드)[v:KeyWord] 고양이 찾아줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCNVYlzfmleSSUO071TK8Pzi1IYmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1571070422569)
+}
+train (t-4oqw6p37uu3e1xdaddguo7o99) {
+  utterance ("[g:Results] (오브차카)[v:KeyWord] 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570549054016)
+}
+train (t-4pizzjla82k2ce1785cvu4aiu) {
+  utterance ("[g:Results] (고양이)[v:KeyWord] 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570285952786)
+}
+train (t-4qht1rjknlwqgokt6mkysd04n) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (2월 22일부터 3월 22일까지)[v:time.DateTimeExpression]} (러시아 블루)[v:KeyWord] 띄워줘라")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068334870)
+}

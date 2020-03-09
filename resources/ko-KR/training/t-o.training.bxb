@@ -1,0 +1,5 @@
+train (t-om7yc7gzxtji7l74oa6p52ema) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (작년 12월)[v:viv.time.DateTimeExpression]}에 잃어버린 (강아지)[v:KeyWord] 찾아줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571495521627)
+}

@@ -1,0 +1,15 @@
+train (t-p0aece40omxeck9ied0bed54q) {
+  utterance ("[g:Results] (스핑크스)[v:KeyWord]를 찾아줘라 제발")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570550791649)
+}
+train (t-p0kn2cgx97vd7v7brjhkxmby6) {
+  utterance ("[g:Results] 고양이 (페르시안)[v:KeyWord]을 검색해줄래요")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571069393737)
+}
+train (t-pkpqozrqvoxmxertrjourcuk3) {
+  utterance ("[g:Results] (전남)[v:City] 안에서 (하운드)[v:KeyWord]를 발견해줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571069198600)
+}

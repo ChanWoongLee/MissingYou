@@ -1,0 +1,4 @@
+name (Adoption) {
+  description (종)
+  features{transient}
+}

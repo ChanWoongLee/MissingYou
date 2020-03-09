@@ -1,0 +1,7 @@
+structure (CustomDateTimeExpression) {
+ role-of (viv.time.DateTimeExpression)
+ description (시간을 transient)
+  features {
+  transient
+  }
+}

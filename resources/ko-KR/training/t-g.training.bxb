@@ -1,0 +1,20 @@
+train (t-g593bqnn2s6epu8c1hwmgoe42) {
+  utterance ("[g:Results] (안양)[v:County] 근처에서 {[g:CustomDateTimeExpression] (어제)[v:time.DateTimeExpression]} (핀셔)[v:KeyWord]를 잃어버렸어")
+  plan (dY7BCsIwEETHpvoT9eIHmH8Q7cmbCp5TXexCk0iTlObv3eo17jLw2JmBxQZbdr3peO6ythwCu1f2SV8opCEG7Irulcz46A+OrRnQFCNHn1zM2JfNFKK3JxPpxpba+T2SeN79eeZM+e7HJ5qJJx2loQvVNVaooFALQXhZJfpNLVrulZD6ZtUH)
+  last-modified (1571292415016)
+}
+train (t-ggjnjdj7t5yesyua3izkax7qz) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (작년6월)[v:time.DateTimeExpression]}에 유기된 (고양이)[v:KeyWord]들 보여줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571495452696)
+}
+train (t-gkkm9gmbgqbu2l1er900yotqt) {
+  utterance ("[g:Results] (포항)[v:County] 주변에서 (뱅갈)[v:KeyWord] 찾아줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCNVYlzfmleSSUO071TK8Pzi1IYmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1571460544802)
+}
+train (t-gyc3qtbtp27e6lyw2rl3q3zn9) {
+  utterance ("[g:Results] (고양이)[v:KeyWord] (인천)[v:City]에서 잃어버렸어")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571071881680)
+}

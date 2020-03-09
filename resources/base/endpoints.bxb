@@ -1,0 +1,8 @@
+endpoints {
+  action-endpoints {
+    action-endpoint (SearchAnimal) {
+      accepted-inputs (keyword, city, county, dateTimeExpression, adoption)
+      local-endpoint (searchAnimal.js)
+    }
+  }
+}

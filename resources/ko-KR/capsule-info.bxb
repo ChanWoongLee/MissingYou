@@ -1,0 +1,23 @@
+capsule-info {
+  display-name (미씽유)
+  developer-name (다해보자)
+  icon-asset (icon2.png)
+  description ("전국의 유기동물 보호소에 있는 유기동물 정보를 제공하는 캡슐입니다. 애완동물의 품종, 잃어버린 지역, 날짜만 알면 찾을 수 있어요!")
+  website-url (https://www.animal.go.kr/portal_rnl/abandonment/public_list.jsp)
+  search-keywords{
+    keyword (동물)
+    keyword (유기견)
+    keyword (유기견 보호소)
+    keyword (강아지 분양)
+    keyword (강아지)
+    keyword (분양)
+    keyword (고양이)
+  }
+  privacy-policy-url(https://docs.google.com/document/d/18X5-DH53VG3oaymtwlp8LCW47NaQbEixijlvegrGW9I/edit?usp=sharing)
+  dispatch-name (미씽유)
+  dispatch-aliases{
+    alias (미싱유)
+    alias (미씽우)
+    alias (미싱우)
+  }
+}

@@ -1,0 +1,50 @@
+train (t-n1zc5igng2z029zn5vfc34dq6) {
+  utterance ("[g:Results] (고양시)[v:County]에서 강아지 (도배르만)[v:KeyWord] 잃어버렸는데 {[g:CustomDateTimeExpression] (어제쯤)[v:time.DateTimeExpression]}")
+  plan (dY7BCsIwEETHpvoT9eIHmH8Q7cmbCp5TXexCk0iTlObv3eo17jLw2JmBxQZbdr3peO6ythwCu1f2SV8opCEG7Irulcz46A+OrRnQFCNHn1zM2JfNFKK3JxPpxpba+T2SeN79eeZM+e7HJ5qJJx2loQvVNVaooFALQXhZJfpNLVrulZD6ZtUH)
+  last-modified (1571069479514)
+}
+train (t-n3bxblxt6z6sof7bwrsspf6ir) {
+  utterance ("[g:Results] (인천광역시)[v:City]에서 (포메라니안)[v:KeyWord] 잃어버렸어")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1570549790429)
+}
+train (t-n44xp1lpw1er6vedhjz3my6y8) {
+  utterance (" [g:Results] (스코티쉬폴드)[v:KeyWord]들을 (부산광역시)[v:City]에서 검색해주셈")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571070447350)
+}
+train (t-nbr59izx0v407ksacbqxv983p) {
+  utterance ("[g:Results] 고양이 (친칠라)[v:KeyWord]를 잃어버렸어")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571069366929)
+}
+train (t-nc62bomcc9cjtyw8hpw3wmvrx) {
+  utterance ("[g:Results] (서울시)[v:City]의 내에서 (마포구)[v:County] 구역에서 (스핑크)[v:KeyWord]가 없어졌었어")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklgzR2qfzSPKAkdou9UyvD84tSGFgYGBmYGJiBNAOQBYEwABKDygEA)
+  last-modified (1571069884002)
+}
+train (t-ncdn1adwb9a10gum3v9jziiwj) {
+  utterance ("[g:Results] (푸들)[v:KeyWord] 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570549055427)
+}
+train (t-nhkpcd9x5syaobkw858syay5y) {
+  utterance ("[g:Results] (발리내즈)[v:KeyWord]가 {[g:CustomDateTimeExpression] (4월 22일)[v:time.DateTimeExpression]} 가출")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068134517)
+}
+train (t-nq93o4zvz5gelqwt95mgjc9ze) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (3월 7일)[v:time.DateTimeExpression]} 기간에 (노르웨이숲)[v:KeyWord] 잃어버렸어 찾아줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068778926)
+}
+train (t-nx9r0wr5q8wvfgq0kiii4eb07) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (3월 10일부터 4월 5일까지)[v:time.DateTimeExpression]} 잃어버린 (코 숏)[v:KeyWord]을 찾아줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1570602009407)
+}
+train (t-nyai1hiwzm4pu22ik5s63406o) {
+  utterance ("[g:Results] 미싱유에서 {[g:CustomDateTimeExpression] (지난달)[v:time.DateTimeExpression]} (말티즈)[v:KeyWord]종을 찾아줘요")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571069530265)
+}

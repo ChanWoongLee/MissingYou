@@ -1,0 +1,5 @@
+train (t-lgsoqydz5tzt8ta34niilxu6c) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (17년)[v:time.DateTimeExpression]}도에 (부산)[v:City] 근처에서 잃어버렸던 (랙 돌)[v:KeyWord]")
+  plan (dY7BCsIwEETHpvoPohc/wPyDWE/eVPCc6mIXmkSStDR/71avcZeBx84MLFbYsutMy1ObteUY2b2yH/SF4tCniF3RvZIJj+7g2Joe62LkyCljX7aGmLxtTKIbWzpN70DieffnlTPluw9PbEYedZKGLlSXWKCCQi0E4XmV6De1aL5XQuqbVR8=)
+  last-modified (1571294629823)
+}

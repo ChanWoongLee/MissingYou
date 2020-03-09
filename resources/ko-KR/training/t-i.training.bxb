@@ -1,0 +1,5 @@
+train (t-i9fd918nzh5qzrchsdig53olv) {
+  utterance ("[g:Results] (과천)[v:County]에서 {[g:CustomDateTimeExpression] (작년)[v:time.DateTimeExpression]}에 분실한 (고양이)[v:KeyWord] 보여줘")
+  plan (dY7BCsIwEETHpvoT9eIHmH8Q7cmbCp5TXexCk0iTlObv3eo17jLw2JmBxQZbdr3peO6ythwCu1f2SV8opCEG7Irulcz46A+OrRnQFCNHn1zM2JfNFKK3JxPpxpba+T2SeN79eeZM+e7HJ5qJJx2loQvVNVaooFALQXhZJfpNLVrulZD6ZtUH)
+  last-modified (1571557966121)
+}

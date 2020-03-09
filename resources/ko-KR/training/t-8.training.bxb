@@ -1,0 +1,10 @@
+train (t-8pjcm9omztpy2pqv8livcpc3k) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (7월)[v:time.DateTimeExpression]} 달 동안에 (래 그 돌)[v:KeyWord]만 검색해줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571292167613)
+}
+train (t-8s5u8v36spywwrvvuu995i8k9) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (작년 5월)[v:time.DateTimeExpression]}쯤에 (강아지)[v:KeyWord] 잃어버렸어 찾아줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571495519239)
+}

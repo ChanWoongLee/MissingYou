@@ -1,0 +1,4 @@
+dialog (Progress) {
+  match: Results
+  template("말해주신 친구들을 불러오는 중이에요.")
+}

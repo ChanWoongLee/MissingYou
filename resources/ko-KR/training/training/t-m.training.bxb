@@ -1,0 +1,25 @@
+train (t-m1cye6o5yv9mt88fzz6mjz2w8) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (7월)[v:time.DateTimeExpression]}에 (경남)[v:City] 안에 (봄베이)[v:KeyWord] 찾아줘")
+  plan (dY7BCsIwEETHpvoPohc/wPyDWE/eVPCc6mIXmkSStDR/71avcZeBx84MLFbYsutMy1ObteUY2b2yH/SF4tCniF3RvZIJj+7g2Joe62LkyCljX7aGmLxtTKIbWzpN70DieffnlTPluw9PbEYedZKGLlSXWKCCQi0E4XmV6De1aL5XQuqbVR8=)
+  last-modified (1571070515166)
+}
+train (t-m5fp8mydr53p0guwqgiv7c2pa) {
+  utterance ("[g:Results] (서울)[v:City] (마포구)[v:County]에서 잃어버린 (강아지)[v:KeyWord]")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklgzR2qfzSPKAkdou9UyvD84tSGFgYGBmYGJiBNAOQBYEwABKDygEA)
+  last-modified (1571063617986)
+}
+train (t-m5ji75vta0pvnw0lsbjaprju9) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (4월달)[v:time.DateTimeExpression]} 동안 (러시안블루)[v:KeyWord] 고양이 띄워주라\n")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068405853)
+}
+train (t-majmxclnmqoe0739vvobaox3h) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (5월)[v:time.DateTimeExpression]}에 (숏헤어)[v:KeyWord] 띄워줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068661303)
+}
+train (t-mv1bcykluhvnhatfssfhfd4bv) {
+  utterance ("[g:Results] (터키시앙고라)[v:KeyWord] 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570548539290)
+}

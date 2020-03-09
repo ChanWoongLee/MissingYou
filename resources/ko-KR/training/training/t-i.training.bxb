@@ -1,0 +1,20 @@
+train (t-i2rckhpgqicg2te1kk4tyruiq) {
+  utterance ("[g:Results] (인천)[v:City] 보호소에 들어온 (스피츠)[v:KeyWord] 찾아줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1570549745165)
+}
+train (t-ida7b63me5ak7n999khcs4vah) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (9월 21일)[v:viv.time.DateTimeExpression]}에 (골든 리트리버)[v:KeyWord] 잃어버렸어")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1570115002726)
+}
+train (t-il7piyfa4xmc61vzwgsx2jtbt) {
+  utterance ("[g:Results] (부산)[v:City] 내에서 사라진 (고양이)[v:KeyWord]만 찾아줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1570549752113)
+}
+train (t-is75r53t9cpomus3agbv5xrfv) {
+  utterance ("[g:Results] (서울)[v:City] 안의 (마포구)[v:County] 안에서 없어진 고양이 종류 중에 (시배리안포레스트)[v:KeyWord]가 있니")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklgzR2qfzSPKAkdou9UyvD84tSGFgYGBmYGJiBNAOQBYEwABKDygEA)
+  last-modified (1571070133724)
+}

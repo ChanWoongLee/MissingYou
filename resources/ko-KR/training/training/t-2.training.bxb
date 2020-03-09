@@ -1,0 +1,40 @@
+train (t-25ust0f2a80qlcsyqk2u4ku2n) {
+  utterance ("  [g:Results] {[g:CustomDateTimeExpression] (지난주)[v:time.DateTimeExpression]}에 (서울)[v:City] 근경에서 (라브라도 리트리버)[v:KeyWord]가 사라졌어")
+  plan (dY7BCsIwEETHpvoPohc/wPyDWE/eVPCc6mIXmkSStDR/71avcZeBx84MLFbYsutMy1ObteUY2b2yH/SF4tCniF3RvZIJj+7g2Joe62LkyCljX7aGmLxtTKIbWzpN70DieffnlTPluw9PbEYedZKGLlSXWKCCQi0E4XmV6De1aL5XQuqbVR8=)
+  last-modified (1571070416674)
+}
+train (t-26g48bkv5io03t07fdf0lugxd) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (17년)[v:time.DateTimeExpression]}도에 잃어버린 (달마시안)[v:KeyWord]")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1570633296990)
+}
+train (t-29kp10p80ohr86cavju1v8t44) {
+  utterance ("[g:Results]고양이 품종인 (터키쉬안고라)[v:KeyWord]를 (부산)[v:City]가까이에서 잃어버렸어")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571070524031)
+}
+train (t-2hfo99ihj3j32kzblf2q87tri) {
+  utterance (" [g:Results] {[g:CustomDateTimeExpression] (어젯밤)[v:time.DateTimeExpression]}에 (웰시코기)[v:KeyWord] 세마리가 사라졌어")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571070414477)
+}
+train (t-2lallu7jt1g6fbae1buufs5dz) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (19년)[v:time.DateTimeExpression]}에 버려진 (강아지)[v:KeyWord] 보여줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1570114802706)
+}
+train (t-2nhca84j4mlmda0sxz2ii4oc9) {
+  utterance ("[g:Results] (푸들)[v:KeyWord]을 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570541414250)
+}
+train (t-2su4tk2951xyt4sp0ihhjc8rz) {
+  utterance ("[g:Results] (여주)[v:County]에서 (애완동물)[v:KeyWord] 찾아줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCNVYlzfmleSSUO071TK8Pzi1IYmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1570549917747)
+}
+train (t-2yf3x34430qrp4zyh7lrdd2xv) {
+  utterance ("[g:Results] (강아지)[v:KeyWord] 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570549053805)
+}

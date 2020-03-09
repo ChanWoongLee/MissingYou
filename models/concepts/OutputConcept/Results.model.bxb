@@ -1,0 +1,84 @@
+structure (Results) {
+  description (결과값들)
+  property (happenDate) {
+    type (HappenDate)
+    min (Optional) max (One)
+  }
+   property (happenPlace) {
+    type (HappenPlace)
+    min (Optional) max (One)
+  }
+   property (kind) {
+    type (Kind)
+    min (Optional) max (One)
+  }
+   property (color) {
+    type (Color)
+    min (Optional) max (One)
+  }
+   property (age) {
+    type (Age)
+    min (Optional) max (One)
+  }
+   property (weight) {
+    type (Weight)
+    min (Optional) max (One)
+  }
+   property (noticeStart) {
+    type (NoticeStart)
+    min (Optional) max (One)
+  }
+   property (noticeEnd) {
+    type (NoticeEnd)
+    min (Optional) max (One)
+  }
+   property (profile) {
+    type (Profile)
+    min (Optional) max (One)
+  }
+   property (gender) {
+    type (Gender)
+    min (Optional) max (One)
+  }
+   property (neuterYN) {
+    type (NeuterYN)
+    min (Optional) max (One)
+  }
+   property (specialMark) {
+    type (SpecialMark)
+    min (Optional) max (One)
+  }
+   property (carePlace) {
+    type (CarePlace)
+    min (Optional) max (One)
+  }
+   property (careNumber) {
+    type (CareNumber)
+    min (Optional) max (One)
+  }
+   property (careAddr) {
+    type (CareAddr)
+    min (Optional) max (One)
+  }
+   property (orgName) {
+    type (OrgName)
+    min (Optional) max (One)
+  }
+   property (chargeName) {
+    type (ChargeName)
+    min (Optional) max (One)
+  }
+   property (chargeNumber) {
+    type (ChargeNumber)
+    min (Optional) max (One)
+  }
+  property (nowState) {
+    type (NowState)
+    min (Optional) max (One)
+  }
+   property (link) {
+    type (Link)
+    min (Optional) max (One)
+  }
+
+}

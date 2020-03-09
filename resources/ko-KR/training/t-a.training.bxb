@@ -1,0 +1,10 @@
+train (t-a175ctmh5ivqfvql2stc9xvzr) {
+  utterance ("[g:Results] (양평군)[v:County]에서 (코 숏)[v:KeyWord]을 찾아줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCNVYlzfmleSSUO071TK8Pzi1IYmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1571285584988)
+}
+train (t-axmxbjgmc3htjazdkhruwoxxo) {
+  utterance ("[g:Results] (터키시앙고라)[v:KeyWord] 고양이 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571291987648)
+}

@@ -1,0 +1,30 @@
+train (t-r83o9zlh8e3bh7f2wfaee8k51) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (오늘)[v:time.DateTimeExpression]} 잃어버린 (하운드)[v:KeyWord]들 보여줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571460154044)
+}
+train (t-r97ky6f6pxxr43469jcla7z40) {
+  utterance ("[g:Results] (애완동물)[v:KeyWord] 다 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571071139213)
+}
+train (t-rgdr8rudf60x35gzloutjl8rw) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (오늘)[v:time.DateTimeExpression]} (고창)[v:County] 주변에서 (강아지)[v:KeyWord] 잃어버렸는데 찾아줘")
+  plan (dY7BCsIwEETHpvoT9eIHmH8Q7cmbCp5TXexCk0iTlObv3eo17jLw2JmBxQZbdr3peO6ythwCu1f2SV8opCEG7Irulcz46A+OrRnQFCNHn1zM2JfNFKK3JxPpxpba+T2SeN79eeZM+e7HJ5qJJx2loQvVNVaooFALQXhZJfpNLVrulZD6ZtUH)
+  last-modified (1571495510925)
+}
+train (t-ro0qm1om98gsem59xupjk1jzf) {
+  utterance ("[g:Results] (강아지)[v:KeyWord] 잃어버렸어 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571071384798)
+}
+train (t-rrrp9fmb8yerrt4r92vixl758) {
+  utterance ("[g:Results] (고양이)[v:KeyWord] (부천)[v:County]에서 찾아줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCNVYlzfmleSSUO071TK8Pzi1IYmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1571071364603)
+}
+train (t-ruuzpi4n2niurbbe83prxjn0m) {
+  utterance ("[g:Results] (강아지)[v:KeyWord] (고양)[v:County]에서 찾아줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCNVYlzfmleSSUO071TK8Pzi1IYmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1571071096188)
+}

@@ -1,0 +1,10 @@
+train (t-uo5xpzw6v9xl8rswuo1d9o4fx) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (오늘)[v:time.DateTimeExpression]} (고창)[v:County] 주변에서 (강아지)[v:KeyWord] 잃어버렸는데 찾아줘")
+  plan (dY7BCsIwEETHpvoT9eIHmH8Q7cmbCp5TXexCk0iTlObv3eo17jLw2JmBxQZbdr3peO6ythwCu1f2SV8opCEG7Irulcz46A+OrRnQFCNHn1zM2JfNFKK3JxPpxpba+T2SeN79eeZM+e7HJ5qJJx2loQvVNVaooFALQXhZJfpNLVrulZD6ZtUH)
+  last-modified (1571495524170)
+}
+train (t-uq3dwcjenaui7hi5i1et1raba) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (작년)[v:time.DateTimeExpression]} (강남)[v:County]에서 잃어버린 (믹스견)[v:KeyWord] 찾아줘")
+  plan (dY7BCsIwEETHpvoT9eIHmH8Q7cmbCp5TXexCk0iTlObv3eo17jLw2JmBxQZbdr3peO6ythwCu1f2SV8opCEG7Irulcz46A+OrRnQFCNHn1zM2JfNFKK3JxPpxpba+T2SeN79eeZM+e7HJ5qJJx2loQvVNVaooFALQXhZJfpNLVrulZD6ZtUH)
+  last-modified (1571558090499)
+}

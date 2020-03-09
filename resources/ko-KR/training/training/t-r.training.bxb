@@ -1,0 +1,45 @@
+train (t-r3h5f4687woi7udtx48v1ygng) {
+  utterance ("[g:Results] (인천)[v:City] 유기견 보호소에 올라온 (유기견)[v:KeyWord]들 보여줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1570633490766)
+}
+train (t-r64zlz3y2bmddpbxj2kj2d4ic) {
+  utterance ("[g:Results] 나의 소중한 (강아지)[v:KeyWord] 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570549055558)
+}
+train (t-rgmu56liyfnbx8p27lr8eaebr) {
+  utterance ("[g:Results] (강원도)[v:City]에 분양할 수 있는 (포메라니안)[v:KeyWord]들 보여줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1570549820459)
+}
+train (t-rm1hmyl7095elwwagniul0buo) {
+  utterance ("  [g:Results] 강아지 (핏불테리어)[v:KeyWord] 종인데 찾고싶어")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571070412047)
+}
+train (t-rmp71y0lhe96bth6n96uvim0i) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (3월)[v:time.DateTimeExpression]} 기간동안에 (래그돌)[v:KeyWord]만 탐색해주세요")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068586032)
+}
+train (t-rmspbvzj9yz4kvkxvh4405wta) {
+  utterance ("[g:Results] 나 (포메)[v:KeyWord] 잃어버렸어 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571064222956)
+}
+train (t-rtpys2jy3bec6grbxdgksklzc) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (5월)[v:time.DateTimeExpression]} 안에 (쇼트헤어)[v:KeyWord] 띄워줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068639406)
+}
+train (t-ru7pqekcqecznmzvm032up4er) {
+  utterance ("[g:Results] (서울)[v:City]에서 (시츄)[v:KeyWord] 찾아줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1570549826129)
+}
+train (t-rzk8otmqyotcbht90uys0odku) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (어제)[v:time.DateTimeExpression]} (강아지)[v:KeyWord] 잃어버렸어")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1570552971437)
+}

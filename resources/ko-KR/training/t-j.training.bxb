@@ -1,0 +1,15 @@
+train (t-j2tsj1mq30yixsez8xf4i39y7) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (어제)[v:time.DateTimeExpression]} 사라진 (브리티시 쇼트헤어)[v:KeyWord] 찾아라")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571287632587)
+}
+train (t-jl6fi2vpdufksiybn8gyt85zt) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (작년 6월)[v:time.DateTimeExpression]}에 유기된 (강아지)[v:KeyWord]들")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571556975955)
+}
+train (t-jtu1cysvcbxfluwlwk1bwjal3) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (작년)[v:time.DateTimeExpression]}에 잃어버렸던 (스코티시 테리어)[v:KeyWord] 찾아줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571293065775)
+}

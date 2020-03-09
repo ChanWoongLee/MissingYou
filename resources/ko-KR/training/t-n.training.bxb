@@ -1,0 +1,25 @@
+train (t-n0inq3va4zzyp3qunut3ix76l) {
+  utterance ("[g:Results] (동두천)[v:County] (보더콜리)[v:KeyWord] 찾아줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCNVYlzfmleSSUO071TK8Pzi1IYmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1571287579190)
+}
+train (t-n1nrrqmkhj9xb4akmt31qntyt) {
+  utterance ("[g:Results] (애완동물)[v:KeyWord]을 찾아주길 바래")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571071121472)
+}
+train (t-na9z9glu8a2clvsa4mjszfth4) {
+  utterance ("[g:inhabixby.missingyou.Results] {[g:inhabixby.missingyou.CustomDateTimeExpression] (오늘)[v:viv.time.DateTimeExpression]} (부평)[v:inhabixby.missingyou.County]에서 (스핑크스)[v:inhabixby.missingyou.KeyWord] 잃어버렸어")
+  plan (dY7BCsIwEETHpvoT9eIHmH8Q7cmbCp5TXexCk0iTlObv3eo17jLw2JmBxQZbdr3peO6ythwCu1f2SV8opCEG7Irulcz46A+OrRnQFCNHn1zM2JfNFKK3JxPpxpba+T2SeN79eeZM+e7HJ5qJJx2loQvVNVaooFALQXhZJfpNLVrulZD6ZtUH)
+  last-modified (1571462443404)
+}
+train (t-ndma6kgkmg8jgndeq2k3msz4t) {
+  utterance ("[g:Results] (바셋 하운드)[v:KeyWord]를 잃어버렸다")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571293564092)
+}
+train (t-nk6ryx10udcv3doyvwk5cc59p) {
+  utterance ("[g:Results] (안양)[v:County] 근처에서 {[g:CustomDateTimeExpression] (어제)[v:time.DateTimeExpression]} (핀셔)[v:KeyWord] 잃어버렸어")
+  plan (dY7BCsIwEETHpvoT9eIHmH8Q7cmbCp5TXexCk0iTlObv3eo17jLw2JmBxQZbdr3peO6ythwCu1f2SV8opCEG7Irulcz46A+OrRnQFCNHn1zM2JfNFKK3JxPpxpba+T2SeN79eeZM+e7HJ5qJJx2loQvVNVaooFALQXhZJfpNLVrulZD6ZtUH)
+  last-modified (1571292416577)
+}

@@ -1,0 +1,10 @@
+train (t-h50denbnhi6loq1aszxxt9kb0) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (7월)[v:time.DateTimeExpression]} 달 동안에 (레그돌)[v:KeyWord]만 검색해줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571292169480)
+}
+train (t-hzh40u39r9niy5u9agmc4xd8n) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (5월)[v:time.DateTimeExpression]}에 잃어버린 (브리티시 쇼트 헤어)[v:KeyWord]")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571293950207)
+}

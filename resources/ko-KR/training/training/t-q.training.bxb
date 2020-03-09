@@ -1,0 +1,20 @@
+train (t-q0uwx7vnvzx58vcbtnwulo1eq) {
+  utterance ("[g:Results] (관악)[v:County] 주변에서 사라졌던 (푸들)[v:KeyWord] 찾아줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCNVYlzfmleSSUO071TK8Pzi1IYmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1570549802538)
+}
+train (t-q1oxvddwdlr62ngjagm3f3fy0) {
+  utterance ("[g:Results] (충북)[v:City] (보은)[v:County]근방에서 (요크셔테리어)[v:KeyWord]가 도망쳤어")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklgzR2qfzSPKAkdou9UyvD84tSGFgYGBmYGJiBNAOQBYEwABKDygEA)
+  last-modified (1571069064023)
+}
+train (t-q1zgfx62t15s07j9w6kioh79u) {
+  utterance ("[g:Results] (강남구)[v:County]에서 (포메라니안)[v:KeyWord] 잃어버렸어")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCNVYlzfmleSSUO071TK8Pzi1IYmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1570549813114)
+}
+train (t-qwmk0esmqk5ccyxl3rfqct11d) {
+  utterance (" [g:Results] (스노우슈)[v:KeyWord]를 (전북)[v:City] 안에 찾아라")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571070451185)
+}

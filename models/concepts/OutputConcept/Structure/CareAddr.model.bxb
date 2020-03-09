@@ -1,0 +1,3 @@
+text (CareAddr) {
+  description (보호소 주소)
+}

@@ -1,0 +1,10 @@
+train (t-ebl6klswdu42zr5nsr4unbxgn) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (17년)[v:time.DateTimeExpression]}도에 (부산)[v:City] 근처에서 잃어버렸던 (렉돌)[v:KeyWord]")
+  plan (dY7BCsIwEETHpvoPohc/wPyDWE/eVPCc6mIXmkSStDR/71avcZeBx84MLFbYsutMy1ObteUY2b2yH/SF4tCniF3RvZIJj+7g2Joe62LkyCljX7aGmLxtTKIbWzpN70DieffnlTPluw9PbEYedZKGLlSXWKCCQi0E4XmV6De1aL5XQuqbVR8=)
+  last-modified (1571294631547)
+}
+train (t-ef2d19hnrlbxpvpd8ks3ucqmm) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (작년4월)[v:time.DateTimeExpression]}에 잃어버린 (보더 콜리)[v:KeyWord]")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571556916010)
+}

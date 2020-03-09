@@ -1,0 +1,40 @@
+train (t-30ygz0wei45osb9ozpl3teebj) {
+  utterance ("[g:Results] (마스티프)[v:KeyWord] 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570549053821)
+}
+train (t-33xnmsu1c18qm3mtpszkcjfkb) {
+  utterance ("[g:Results] (인천)[v:City]의 (미추홀구)[v:County]의 구역중에서 잃어버렸던 (스코티시)[v:KeyWord] 고양이들을 모두 검색해봐")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklgzR2qfzSPKAkdou9UyvD84tSGFgYGBmYGJiBNAOQBYEwABKDygEA)
+  last-modified (1571069951185)
+}
+train (t-366wfyh2uyhyooqm9zz0pfnfn) {
+  utterance ("[g:Results] (코 숏)[v:KeyWord]을 찾아줘라")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570602132816)
+}
+train (t-37gwe1htwfi8d5r73zuptw5kb) {
+  utterance (" [g:Results] (샴)[v:KeyWord]들을 (경기도)[v:City] 안에서 찾아줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571070520511)
+}
+train (t-3j02aqjhleqhcj5vadk56rd93) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (이번달)[v:time.DateTimeExpression]}에 (남동구)[v:County]에서 찾은 (강아지)[v:KeyWord] 있어")
+  plan (dY7BCsIwEETHpvoT9eIHmH8Q7cmbCp5TXexCk0iTlObv3eo17jLw2JmBxQZbdr3peO6ythwCu1f2SV8opCEG7Irulcz46A+OrRnQFCNHn1zM2JfNFKK3JxPpxpba+T2SeN79eeZM+e7HJ5qJJx2loQvVNVaooFALQXhZJfpNLVrulZD6ZtUH)
+  last-modified (1570549923469)
+}
+train (t-3lpe0twzn82gagn3ymd6fcrp8) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (10월 1일)[v:time.DateTimeExpression]}에 (코숏)[v:KeyWord]을 찾아줘라 ")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1570546277682)
+}
+train (t-3mc1yysuwps2zlt7p7henozwv) {
+  utterance ("[g:Results] 유기견중 (풍산개)[v:KeyWord] 좀 보여줘라")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571069802466)
+}
+train (t-3t7cvu8ltsyjg7t7ggur5iau9) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (지난주)[v:time.DateTimeExpression]}에 공고 끝난 (치와와)[v:KeyWord] 알려줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1570114849015)
+}

@@ -1,0 +1,20 @@
+train (t-98mb675d3zs6so3x5o5uwc7q9) {
+  utterance ("[g:Results] (세종시)[v:City]의 발견된 (유기견)[v:KeyWord] 보여줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1570549694976)
+}
+train (t-9tfootngprhcqdqhpj170vem7) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (3월 20일)[v:time.DateTimeExpression]} 오후에 (숲)[v:KeyWord] 검색해서 알려줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068159389)
+}
+train (t-9vb1uqc96cwx9q3ndklzp4660) {
+  utterance ("[g:Results] (러시아블루)[v:KeyWord] 고양이 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570547662642)
+}
+train (t-9ya661k3mx7a95q8es4d4ovls) {
+  utterance ("[g:Results] (대구시)[v:City]에서 발견된 (비숑)[v:KeyWord]")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1570549701826)
+}

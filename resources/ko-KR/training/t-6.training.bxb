@@ -1,0 +1,15 @@
+train (t-6518vd5f9imcbjzrzvcbpv00p) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (6월)[v:time.DateTimeExpression]} 안에 사라진 (터키시 앙고라)[v:KeyWord]를 보여줘라")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571287700080)
+}
+train (t-6ooml5v9kbfaj3qhbvn66jbkh) {
+  utterance ("[g:Results] (경기도)[v:City] 안에서 잃어버린 (아프간 하운드)[v:KeyWord]들을 찾아줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571293614848)
+}
+train (t-6p84mgkjm15m0etgdx6tpcobt) {
+  utterance ("[g:Results] (아메리칸 하운드)[v:KeyWord] 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571293532693)
+}

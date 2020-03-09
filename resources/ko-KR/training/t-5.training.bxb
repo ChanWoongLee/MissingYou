@@ -1,0 +1,5 @@
+train (t-5du3hqudwfhyy7i348j9ysizd) {
+  utterance ("[g:inhabixby.missingyou.Results] {[g:inhabixby.missingyou.CustomDateTimeExpression] (저번주)[v:viv.time.DateTimeExpression]}에 (양양)[v:inhabixby.missingyou.County]에서 올라온 (강아지)[v:inhabixby.missingyou.KeyWord]들")
+  plan (dY7BCsIwEETHpvoT9eIHmH8Q7cmbCp5TXexCk0iTlObv3eo17jLw2JmBxQZbdr3peO6ythwCu1f2SV8opCEG7Irulcz46A+OrRnQFCNHn1zM2JfNFKK3JxPpxpba+T2SeN79eeZM+e7HJ5qJJx2loQvVNVaooFALQXhZJfpNLVrulZD6ZtUH)
+  last-modified (1571557586921)
+}

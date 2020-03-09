@@ -1,0 +1,50 @@
+train (t-10llvzqhqc6qiacd1hlx6t9de) {
+  utterance ("[g:Results] 미싱유에서 (보더콜리)[v:KeyWord]만 검색해줄래")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571069596644)
+}
+train (t-14d45dvv2gpqixvr458p2gkjo) {
+  utterance ("[g:Results] 잃어버린 (강아지)[v:KeyWord]를 찾는걸 도와줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570549053634)
+}
+train (t-14yrw5sm5p9qef9ngxj35gj0o) {
+  utterance (" [g:Results] (부산광역시)[v:City]에서 (스코티쉬폴드)[v:KeyWord]만 검색해주셈")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571070421356)
+}
+train (t-1bi3yelpw1f019ot5k7ee69l2) {
+  utterance ("[g:Results] 강아지 (폭스테리어)[v:KeyWord]가 사라졌는데 어디서 찾아")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571069737258)
+}
+train (t-1ctgp9u5j2rcs9ipb9ffoe3pb) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (9월 21)[v:time.DateTimeExpression]}일에 (골든 리트리버)[v:KeyWord] 찾아줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1570114793641)
+}
+train (t-1fvfaxvxtp0g50c4oi1sgt9zr) {
+  utterance ("[g:Results] (달마시안)[v:KeyWord]을 {[g:CustomDateTimeExpression] (9월 10일)[v:time.DateTimeExpression]}에 (마포)[v:County] 내에서 찾아줘")
+  plan (dY7BCsIwEETHpvoT9eIHmH8Q7cmbCp5TXexCk0iTlObv3eo17jLw2JmBxQZbdr3peO6ythwCu1f2SV8opCEG7Irulcz46A+OrRnQFCNHn1zM2JfNFKK3JxPpxpba+T2SeN79eeZM+e7HJ5qJJx2loQvVNVaooFALQXhZJfpNLVrulZD6ZtUH)
+  last-modified (1571067404500)
+}
+train (t-1tz3semmboiezftlzpvdbbh2f) {
+  utterance ("[g:Results] (강원도)[v:City] 안에서 (비글)[v:KeyWord]만 찾아주세요")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571067486012)
+}
+train (t-1u8iudmaf4ba1v03c1pg1uiox) {
+  utterance ("[g:Results] (페르시안)[v:KeyWord] 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571071865143)
+}
+train (t-1wczar0ghxv4c2yn37untasu8) {
+  utterance (" [g:Results] (소말리)[v:KeyWord] (울산광역시)[v:City]안에서 탐색해줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571070455236)
+}
+train (t-1xwmdmypjf9njoog485j4hwt7) {
+  utterance ("[g:Results] (서울)[v:City]에서 사라진 (고양이)[v:KeyWord] 찾아줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1570549913346)
+}

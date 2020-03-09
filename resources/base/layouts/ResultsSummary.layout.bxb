@@ -1,0 +1,77 @@
+layout {
+  match: Results (this)
+  mode (Summary)
+  content {
+    section {
+      content {
+       
+    image-card {
+      image-url ("#{value(profile)}")
+      aspect-ratio (16:9)
+      title-area {
+        halign (Start)
+          slot1{
+                        
+                              single-line{
+                                 text{   
+                                 style(Title_XS)
+                                 value("#{value(kind)}")   
+                              }
+                              if (gender=='미상'){
+                              text{   
+                                 color (Green)
+                                 style(Title_M)
+                                 value(" #{value(gender)}")   
+                              }
+                              }
+                              else if(gender=='♂'){
+                                 
+                              text{   
+                                 color (Blue)
+                                 style(Title_M)
+                                 value(" #{value(gender)}")   
+                              }
+                              }
+                              else{
+                                 text{   
+                                 color (Red)
+                                 style(Title_M)
+                                 value(" #{value(gender)}")   
+                              }   
+                              }
+                              }         
+                        }
+          slot2 {
+             single-line {
+              text{
+                value("발견장소 :")
+                style(Detail_L)
+              } 
+              spacer
+              text {
+                  value ("#{value(happenPlace)}") 
+                  style (Detail_L)
+                }
+              }
+          }
+          slot3{
+            single-line{
+              text{
+                value("등록일자 :")
+                style(Detail_L)
+                
+              }
+              spacer
+              text{
+                value("#{value(happenDate)}")
+                style(Detail_L)
+              }
+            }
+          } 
+      }
+    }
+      }
+    }
+    
+  }
+}

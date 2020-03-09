@@ -1,0 +1,30 @@
+train (t-e916nfc13i0ytfaz5j0wct7cg) {
+  utterance ("[g:Results] (서울시)[v:City] 부근의 (마포구)[v:County] 내에서의 (스코티쉬)[v:KeyWord] 고양이만 모두 탐색")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklgzR2qfzSPKAkdou9UyvD84tSGFgYGBmYGJiBNAOQBYEwABKDygEA)
+  last-modified (1571069983209)
+}
+train (t-edibwotqriuqgvg3ll1q745xv) {
+  utterance ("[g:Results] 잃어버린 (강아지)[v:KeyWord] 띄워줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571065582496)
+}
+train (t-edl6281tihh1o0ousnq4zunnb) {
+  utterance ("[g:Results] (포메)[v:KeyWord] 좀 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570546639306)
+}
+train (t-egq6vi3e17e8a1k82co8v396s) {
+  utterance ("[g:Results] (미니어쳐핀셔)[v:KeyWord]가 사라졌는데 아마 {[g:CustomDateTimeExpression] (지난달)[v:time.DateTimeExpression]}일거같아")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571069579857)
+}
+train (t-eu5632xlk5a1bf9evr1xt9skf) {
+  utterance ("[g:Results] (서울시)[v:City] 내에서 (마포구)[v:County]의 근방 (스코티시)[v:KeyWord]를 찾아줬으면 해")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklgzR2qfzSPKAkdou9UyvD84tSGFgYGBmYGJiBNAOQBYEwABKDygEA)
+  last-modified (1571069834634)
+}
+train (t-euhpvr0tof2lz8s2grg80al1w) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (7월 22일)[v:time.DateTimeExpression]} (러시아블루)[v:KeyWord]고양이")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068437502)
+}

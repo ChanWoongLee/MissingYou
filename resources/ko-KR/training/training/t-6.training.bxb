@@ -1,0 +1,45 @@
+train (t-600o7qrnp847ox98dq6dwcikk) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (삼일 전)[v:viv.time.DateTimeExpression]}에 (서울)[v:City]주변에 있는 보호소에 들어온 (미니어쳐 푸들)[v:KeyWord] 보여줘")
+  plan (dY7BCsIwEETHpvoPohc/wPyDWE/eVPCc6mIXmkSStDR/71avcZeBx84MLFbYsutMy1ObteUY2b2yH/SF4tCniF3RvZIJj+7g2Joe62LkyCljX7aGmLxtTKIbWzpN70DieffnlTPluw9PbEYedZKGLlSXWKCCQi0E4XmV6De1aL5XQuqbVR8=)
+  last-modified (1570549659456)
+}
+train (t-668m4dsytz6fv4tvu5dnzmc7y) {
+  utterance (" [g:Results](스코티시폴드)[v:KeyWord] 고양이를 (미추홀구)[v:County]에서 찾아줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCNVYlzfmleSSUO071TK8Pzi1IYmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1571070423467)
+}
+train (t-6hv9ijdtnofhxko85kr9s1htn) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (7월 29일)[v:time.DateTimeExpression]} 자정에 (데본렉스)[v:KeyWord] 찾아줘라")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068183797)
+}
+train (t-6nb1h4oqnpp0hsy83fwk6hzs1) {
+  utterance ("[g:Results] (사모에 드)[v:KeyWord] 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570632607753)
+}
+train (t-6r9zaqj6qbxaxt9ma6rx80nnv) {
+  utterance ("[g:Results] 강아지 (닥스훈트)[v:KeyWord]를 잃어버렸어요")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571069436859)
+}
+train (t-6s89vuvsin7rg99vvonm5vrkz) {
+  utterance ("[g:Results] 강아지 (달마시얀)[v:KeyWord]이 어디있어")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571069448538)
+}
+train (t-6x3jr713871xx2b4whcerwxp5) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (6월)[v:time.DateTimeExpression]} 중순에 (러시안 블루)[v:KeyWord] 탐색")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068286567)
+}
+train (t-6xiazcimqmweb8sfjpqf5k5xj) {
+  utterance ("[g:Results] (핏볼)[v:KeyWord]을 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570543202937)
+}
+train (t-6ztwe65jlz77ff3l763ewg63t) {
+  utterance ("[g:Results] (인천광역시)[v:City]에서 (포메라니안)[v:KeyWord] 잃어버렸어")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1570549669234)
+}

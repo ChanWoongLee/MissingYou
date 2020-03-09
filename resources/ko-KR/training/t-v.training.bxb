@@ -1,0 +1,10 @@
+train (t-vaepk5z7qo9taovm65fbh4uid) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (어제)[v:time.DateTimeExpression]} (수원)[v:City]에서 (고양이)[v:KeyWord] 잃어버렸는데 어디로 가지")
+  plan (dY7BCsIwEETHpvoPohc/wPyDWE/eVPCc6mIXmkSStDR/71avcZeBx84MLFbYsutMy1ObteUY2b2yH/SF4tCniF3RvZIJj+7g2Joe62LkyCljX7aGmLxtTKIbWzpN70DieffnlTPluw9PbEYedZKGLlSXWKCCQi0E4XmV6De1aL5XQuqbVR8=)
+  last-modified (1571072437796)
+}
+train (t-vg8mwcwie9nr6ejv0wz16q7on) {
+  utterance ("[g:inhabixby.missingyou.Results] {[g:inhabixby.missingyou.CustomDateTimeExpression] (이번주)[v:viv.time.DateTimeExpression]}에 (과천)[v:inhabixby.missingyou.County]에서 (핏 불)[v:KeyWord] 잃어버렸어")
+  plan (dY7BCsIwEETHpvoT9eIHmH8Q7cmbCp5TXexCk0iTlObv3eo17jLw2JmBxQZbdr3peO6ythwCu1f2SV8opCEG7Irulcz46A+OrRnQFCNHn1zM2JfNFKK3JxPpxpba+T2SeN79eeZM+e7HJ5qJJx2loQvVNVaooFALQXhZJfpNLVrulZD6ZtUH)
+  last-modified (1571557498106)
+}

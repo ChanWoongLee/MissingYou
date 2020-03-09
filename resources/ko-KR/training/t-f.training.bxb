@@ -1,0 +1,10 @@
+train (t-fcpgyerrinmp782kn21aaqttn) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (작년)[v:time.DateTimeExpression]} (경기도)[v:City]에서 잃어버렸던 (포메라니안)[v:KeyWord] 찾아줘")
+  plan (dY7BCsIwEETHpvoPohc/wPyDWE/eVPCc6mIXmkSStDR/71avcZeBx84MLFbYsutMy1ObteUY2b2yH/SF4tCniF3RvZIJj+7g2Joe62LkyCljX7aGmLxtTKIbWzpN70DieffnlTPluw9PbEYedZKGLlSXWKCCQi0E4XmV6De1aL5XQuqbVR8=)
+  last-modified (1571321638377)
+}
+train (t-fm92nqf7wpawl4nn2chwa31x6) {
+  utterance ("[g:Results] (코카 스파니엘)[v:KeyWord]도 (경북)[v:City] (구미)[v:County]에서 잃어버렸어")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklgzR2qfzSPKAkdou9UyvD84tSGFgYGBmYGJiBNAOQBYEwABKDygEA)
+  last-modified (1571294074768)
+}

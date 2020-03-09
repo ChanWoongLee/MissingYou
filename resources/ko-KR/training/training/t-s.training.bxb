@@ -1,0 +1,20 @@
+train (t-s0jkzl2lf3zrcedlcx3f0u2ly) {
+  utterance ("[g:Results](전남)[v:City]지역 안에서 (터키쉬앙고라)[v:KeyWord] 분실된거 있니")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571070530828)
+}
+train (t-s2xsjdgsxs4fmlq220rqd235h) {
+  utterance (" [g:Results] (사바나캣)[v:KeyWord] 검색해서 알려줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571070518094)
+}
+train (t-s4rpd5xjypei8dzpuvlr4p3ys) {
+  utterance (" [g:Results]분실된 (재패니즈밥테일)[v:KeyWord] 중 (서울)[v:City]에서 잃어버린 고양이 찾아줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571070281250)
+}
+train (t-svx45nsfc8q6n0re3yoj9fl10) {
+  utterance ("[g:Results] (리트리버)[v:KeyWord]만 보여줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570550821493)
+}

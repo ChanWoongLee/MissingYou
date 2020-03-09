@@ -1,0 +1,15 @@
+train (t-x7yai9yfaiz5ilnehrysyn79i) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (7월)[v:time.DateTimeExpression]} 달 동안에 (레그돌)[v:KeyWord]만 검색해줘요")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068563990)
+}
+train (t-xvhv7b1x03dfi8gizhaaa13ur) {
+  utterance ("[g:Results] (말티즈)[v:KeyWord]만 보여줘라")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570601432787)
+}
+train (t-xy74ewyxw23fickq0xng7op2a) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (6월)[v:time.DateTimeExpression]}에서 (코숏)[v:KeyWord] 띄워줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068680215)
+}

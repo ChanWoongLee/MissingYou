@@ -1,0 +1,65 @@
+train (t-c2bj1jndb7laqcbs15e0zy00k) {
+  utterance ("[g:Results] (그레이트덴)[v:KeyWord]를 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570542054643)
+}
+train (t-c4r7np57t4ibkpf033mxks2nv) {
+  utterance ("[g:Results] (포메라니안)[v:KeyWord] 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570549054584)
+}
+train (t-c79rorfk975zs3tjzex0azdan) {
+  utterance ("[g:Results] (유기견들)[v:KeyWord] 보여줘, (경기)[v:City]에서 발견된")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1570549710294)
+}
+train (t-c98tn2wetaia0sljjeix4yy3p) {
+  utterance ("[g:Results] (말티즈)[v:KeyWord] 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570549054638)
+}
+train (t-calkwl703mw1ah4nrvomrmep2) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (9월 21일)[v:viv.time.DateTimeExpression]}에 (포메라니안)[v:KeyWord] 잃어버렸어")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1570115034192)
+}
+train (t-cb1gg5nbnvnd0pokxxiqbykeu) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (2018년8월10일부터  오늘 까지)[v:time.DateTimeExpression]}  (성북구)[v:County]에서 찾은 모든 (유기견)[v:KeyWord]들 보여줘")
+  plan (dY7BCsIwEETHpvoT9eIHmH8Q7cmbCp5TXexCk0iTlObv3eo17jLw2JmBxQZbdr3peO6ythwCu1f2SV8opCEG7Irulcz46A+OrRnQFCNHn1zM2JfNFKK3JxPpxpba+T2SeN79eeZM+e7HJ5qJJx2loQvVNVaooFALQXhZJfpNLVrulZD6ZtUH)
+  last-modified (1570549717620)
+}
+train (t-cczbll32dbc5k3jn6h8emnvby) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (당일 날)[v:time.DateTimeExpression]} (인천)[v:City]의 (미추홀구)[v:County] 안에서 (뱅갈)[v:KeyWord]을 찾아줘")
+  plan (dY7NCsIwEIRHTfUZpF58APMOop68qeA51WAXmkTyU5q3d4N4i7sM7PDNwGKFDdledTR1WRoKgewruyQvOqQhBmyr9KqVf/R7S0YNWFcjB4oZbR25ZBnu6jCF6MxRRX0jo0/T22tmzv7586zz3fkn2pFGGbkhK9UlZphjAYGGb7D7rmD9RrAKK7mGXemIDw==)
+  last-modified (1571070512462)
+}
+train (t-cg2xgwwjn8q7h98ma0e6d9bs1) {
+  utterance ("[g:Results] (고양이)[v:KeyWord] 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570549054705)
+}
+train (t-ciz9nxv9uq6gcl1omonhd409n) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (1월)[v:time.DateTimeExpression]} 사이에 (놀숲)[v:KeyWord] 검색해서")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068851256)
+}
+train (t-cpzdasev7a3162fid9rtcm4ua) {
+  utterance (" [g:Results] (세종특별자치시)[v:City]안에 (브리티시쇼트헤어)[v:KeyWord] 찾아주면돼")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571070517019)
+}
+train (t-cqhxo7xhgz74m09m27vykdqm1) {
+  utterance ("[g:Results] (매인쿤)[v:KeyWord] 친구가 {[g:CustomDateTimeExpression] (7월 1일)[v:time.DateTimeExpression]}에 없어졌어")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068044589)
+}
+train (t-cufozyixwu95y83d9md6fpk7o) {
+  utterance ("[g:Results] 미싱유에서 (경기도)[v:City]만 (비숑)[v:KeyWord]을 검색해줄래")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571069629745)
+}
+train (t-czdzvlan7bpl8qxpe4bvbz9q6) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (19년)[v:time.DateTimeExpression]}에 잃어버린 (샴)[v:KeyWord]을 보여줘라 ")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1570546812914)
+}

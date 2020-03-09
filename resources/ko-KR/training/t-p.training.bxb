@@ -1,0 +1,10 @@
+train (t-p1mga58xkb7v9a4jyhgils5h3) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (작년12월)[v:viv.time.DateTimeExpression]}에 잃어버린 (강아지)[v:KeyWord] 찾아줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571495515694)
+}
+train (t-p2gyphcllo3sab73wkc71hktd) {
+  utterance ("[g:inhabixby.missingyou.Results] {[g:CustomDateTimeExpression] (어제)[v:time.DateTimeExpression]} (서울)[v:inhabixby.missingyou.City] (마포구)[v:inhabixby.missingyou.County]에서 잃어버린 (고양이)[v:inhabixby.missingyou.KeyWord]들 보여줘")
+  plan (dY7NCsIwEIRHTfUZpF58APMOop68qeA51WAXmkTyU5q3d4N4i7sM7PDNwGKFDdledTR1WRoKgewruyQvOqQhBmyr9KqVf/R7S0YNWFcjB4oZbR25ZBnu6jCF6MxRRX0jo0/T22tmzv7586zz3fkn2pFGGbkhK9UlZphjAYGGb7D7rmD9RrAKK7mGXemIDw==)
+  last-modified (1571321093474)
+}

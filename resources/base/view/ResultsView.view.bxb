@@ -1,0 +1,50 @@
+result-view{//이 layout뷰에서 
+ match: Results(this){
+                    //Results:실제로 보여줄 정보는 OutputConcept에 담기는 ResultsConcept에 있는 정보를 보여줄 것이다.
+                    //this:어떤 컨셉에 대한 정보를 전달할때 변수를 사용하는데 여기에서는 Results에 관한 변수를 this로 사용할 것이다.
+   from-output:SearchAnimal(action)
+ }
+
+  conversation-drivers{
+    if(size(this) > 1){
+         if(not exists(action.dateTimeExpression)){
+        conversation-driver("서울에서 사라진 #{value(action.keyword)} 찾아줘")
+      }
+      if(not exists(action.city)){
+        conversation-driver("9월 30일에 잃어버린 #{value(action.keyword)} 찾아줘")
+      }
+    }
+  }
+
+  message{//결과값을 출력해 줄때 제일 위에 표시되는 문자
+  
+    if (size(this) == 1){//1개만 선택된다면
+      template ("당신의 가족을 찾길 바랍니다.")
+    }    
+    else-if(size(this) == 0){
+      template-macro (1_2_Mypet_NoResult){param (kind){expression (action.keyword)}}
+    }
+    if(exists(action.keyword)){
+      template-macro (1_1_Mypet_Keyword){param (kind){expression (action.keyword)}}
+    }
+
+   
+
+  }
+
+  render{//render에서 입력된 부분이 진짜 화면에 출력되게 된다!
+    if (size(this) == 1){//1개만 선택된다면
+      layout-match (this) {
+        mode (Details)//ResultsDetails화면을 보여준다.
+      }
+    }
+      list-of (this){//리턴받은 배열 결과로 부터 리스트 생성=>Summary 레이아웃을 리스트로 표시
+      has-details (true)//리스트에 있는 아이템이 Details view를 제공할껀지 아닌지 선택
+      where-each (item){
+        layout-match (item){
+          mode (Summary)
+        }
+      }  
+    }
+  }
+}

@@ -1,0 +1,50 @@
+train (t-84ssylpgp0k3ov52x8g2yerbg) {
+  utterance ("[g:Results] (스파니엘)[v:KeyWord] 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570201516629)
+}
+train (t-859lhl1i5dibn3hnpl472i0sv) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (9월27일 부터 9월30일)[v:time.DateTimeExpression]}에 잃어버린 (포메라니안)[v:KeyWord] 찾아줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1570115073412)
+}
+train (t-86pdwdb8y2pefi1msq99eoj6t) {
+  utterance ("[g:Results] (말티즈)[v:KeyWord]들을 찾아줘라")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570550757333)
+}
+train (t-897glzml4plc2kshzlfkp7xms) {
+  utterance ("[g:Results] (러시안블루)[v:KeyWord] 고양이 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570547629570)
+}
+train (t-8q04r588ll2jfdqf3jvly7kdd) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (21일)[v:viv.time.DateTimeExpression]}에 잃어버린 (비숑)[v:KeyWord] 찾아줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1570115085659)
+}
+train (t-8ssnxvgzx90t5wxxepze4giu2) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (한달 전)[v:time.DateTimeExpression]}에 (포메라니안)[v:KeyWord] 잃어버렸어")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1570115089997)
+}
+train (t-8vxy0p0midymzye7ndsrkeuja) {
+  utterance ("[g:Results] 우리 아빠가 잃어버린 (말티즈)[v:KeyWord] 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570549054379)
+}
+train (t-8wj41kk72iaa4xmb0ur4s8fv3) {
+  utterance ("[g:Results] (동대문구)[v:County]에서 (스파니앨)[v:KeyWord]들을 찾아보겠니")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCNVYlzfmleSSUO071TK8Pzi1IYmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1571071868815)
+}
+train (t-8xuudj5i56982yi11oituq83t) {
+  utterance ("[g:Results] (코 숏)[v:KeyWord]들 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570601908929)
+}
+train (t-8zn4ldk38cm6an03yts7t7rcw) {
+  utterance ("[g:Results] (대전광역시)[v:City]에서 (말티즈)[v:KeyWord] 찾아줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1570549686662)
+}

@@ -1,0 +1,24 @@
+//nlg-strings
+template-macro-def (1_1_Mypet_Keyword){
+  params{
+    param (kind) {type (viv.core.Text)}
+  }
+  content{
+    choose (Random){
+      template ("보호 중인 #{kind} 친구들 입니다.")
+      template ("가족을 기다리는 #{kind} 친구들 입니다.")
+    }
+  }
+}
+
+
+template-macro-def (1_2_Mypet_NoResult){
+   params{
+    param (kind) {type (viv.core.Text)}
+  }
+  content{
+    choose (Random){
+      template ("#{kind} 친구를 찾을 수 없네요..")
+    }
+  }
+}

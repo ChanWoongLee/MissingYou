@@ -1,0 +1,29 @@
+capsule {
+  id (inhabixby.missingyou)
+  version (1.1.0)
+  format (3)
+  targets {
+    target (bixby-mobile-ko-KR)
+  }
+  runtime-flags {
+    no-filtering-with-validation
+    modern-default-view-behavior
+    concepts-inherit-super-type-features
+    modern-prompt-rejection
+    support-halt-effect-in-computed-inputs
+  }
+  store-sections{
+    section (ArtAndLifestyle)
+  }
+
+  marketplace-constraints{
+    country-constraints{
+      allowed-list{
+        allow (KR)
+      }
+    }
+  }
+  capsule-imports{
+    import(viv.time) { version (2.92.45) as (time)}
+  }
+}

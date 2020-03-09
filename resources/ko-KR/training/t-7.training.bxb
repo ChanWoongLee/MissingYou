@@ -1,0 +1,10 @@
+train (t-7eelfz83ky57l92rngb2jb7uy) {
+  utterance ("[g:inhabixby.missingyou.Results] (서울)[v:inhabixby.missingyou.City]에서 {[g:inhabixby.missingyou.CustomDateTimeExpression] (이번주)[v:viv.time.DateTimeExpression]}안에 유기된 (시츄)[v:inhabixby.missingyou.KeyWord]")
+  plan (dY7BCsIwEETHpvoPohc/wPyDWE/eVPCc6mIXmkSStDR/71avcZeBx84MLFbYsutMy1ObteUY2b2yH/SF4tCniF3RvZIJj+7g2Joe62LkyCljX7aGmLxtTKIbWzpN70DieffnlTPluw9PbEYedZKGLlSXWKCCQi0E4XmV6De1aL5XQuqbVR8=)
+  last-modified (1571557444258)
+}
+train (t-7o9r6lkmghg53ockllafexdre) {
+  utterance ("[g:inhabixby.missingyou.Results] {[g:inhabixby.missingyou.CustomDateTimeExpression] (작년)[v:viv.time.DateTimeExpression]}에 잃어버렸던 (포메라니안)[v:inhabixby.missingyou.KeyWord] 찾아줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571321583985)
+}

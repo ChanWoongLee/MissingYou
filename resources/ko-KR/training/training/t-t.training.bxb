@@ -1,0 +1,25 @@
+train (t-t87mjs3fc5p4n9rvo8xknyncd) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (7월)[v:time.DateTimeExpression]} 근방에 (러시안블루)[v:KeyWord] 탐색해서 알려줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068228141)
+}
+train (t-t89g4jj41yn48e3ihnjeucmjw) {
+  utterance ("[g:Results] (서울시)[v:City]의 안에서 (마포구)[v:County]의 구역안에서 (스핑크스)[v:KeyWord]가 나를 찾아달래")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklgzR2qfzSPKAkdou9UyvD84tSGFgYGBmYGJiBNAOQBYEwABKDygEA)
+  last-modified (1571069915939)
+}
+train (t-td5om0t0fbjwna0t7syjdtc8i) {
+  utterance (" [g:Results] {[g:CustomDateTimeExpression] (지난달)[v:time.DateTimeExpression]} 까지 등록된 (고양이)[v:KeyWord] 종들 보여줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571070418348)
+}
+train (t-tok3f6qu23s1lanof7n35by64) {
+  utterance ("[g:Results] (숏헤어)[v:KeyWord]를 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570201091887)
+}
+train (t-tzw6cb12lgpqeobcgw6apkv9x) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (16년)[v:time.DateTimeExpression]}도에 잃어버린 (코 숏)[v:KeyWord]")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1570632768601)
+}

@@ -1,0 +1,40 @@
+train (t-g1pw33y8d78v6c917mm0yfiv8) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (8월)[v:time.DateTimeExpression]}에 (서울)[v:City] 주변에서 (불독)[v:KeyWord] 잃어버렸어 찾아줘")
+  plan (dY7BCsIwEETHpvoPohc/wPyDWE/eVPCc6mIXmkSStDR/71avcZeBx84MLFbYsutMy1ObteUY2b2yH/SF4tCniF3RvZIJj+7g2Joe62LkyCljX7aGmLxtTKIbWzpN70DieffnlTPluw9PbEYedZKGLlSXWKCCQi0E4XmV6De1aL5XQuqbVR8=)
+  last-modified (1571069323574)
+}
+train (t-g3xrfbhhia9b2go8m67yzzpij) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (7월 5일)[v:time.DateTimeExpression]}에 (레그돌라가머핀)[v:KeyWord]을 검색해라")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571068487599)
+}
+train (t-g77l85a8ynclash7diimkameb) {
+  utterance (" [g:Results]사라진 고양이 종류 중 (아비시니안)[v:KeyWord] 종류 있으면 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571070267452)
+}
+train (t-g7mx1bunh5fl0fidxybpdkqt7) {
+  utterance ("[g:Results] (스파니엘)[v:KeyWord]을 (부천)[v:County]에서 잃어버렸어")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCNVYlzfmleSSUO071TK8Pzi1IYmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1570549730862)
+}
+train (t-gg251co8mt9w74dkm0yhfnq3a) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (18년)[v:time.DateTimeExpression]}에 (진도)[v:County]에서 잃어버린 (진도견)[v:KeyWord] 보여줘")
+  plan (dY7BCsIwEETHpvoT9eIHmH8Q7cmbCp5TXexCk0iTlObv3eo17jLw2JmBxQZbdr3peO6ythwCu1f2SV8opCEG7Irulcz46A+OrRnQFCNHn1zM2JfNFKK3JxPpxpba+T2SeN79eeZM+e7HJ5qJJx2loQvVNVaooFALQXhZJfpNLVrulZD6ZtUH)
+  last-modified (1570549736682)
+}
+train (t-ggkmdcdxmzsc6ccwgaao8ges5) {
+  utterance ("[g:Results] (경기)[v:City] 안에서 (불독)[v:KeyWord]들을 분실했어")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571069237055)
+}
+train (t-gs5yfnz8758wli2hv4e749yl2) {
+  utterance ("[g:Results] (성남)[v:County]에서의 (유기견)[v:KeyWord] 찾아줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCNVYlzfmleSSUO071TK8Pzi1IYmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1571066638994)
+}
+train (t-gtpgp9a1zjdopd6yiu2m40rug) {
+  utterance ("  [g:Results] (페르시안고양이)[v:KeyWord]를 알려주세요")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571070409755)
+}

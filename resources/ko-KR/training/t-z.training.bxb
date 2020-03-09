@@ -1,0 +1,5 @@
+train (t-zinll63m3qlplzmdjp737475k) {
+  utterance ("[g:Results] (오산)[v:County]에서 잃어버렸던 (싱가푸라)[v:KeyWord]를 찾아주세요")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCNVYlzfmleSSUO071TK8Pzi1IYmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1571291786472)
+}

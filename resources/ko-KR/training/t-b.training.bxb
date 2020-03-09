@@ -1,0 +1,10 @@
+train (t-b09yo6n1ymhscgzrmqc728yyr) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (6월)[v:time.DateTimeExpression]} 중에 (터키쉬앙고라)[v:KeyWord] 찾아줘라")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571292217219)
+}
+train (t-bir8ie9oq1wlsz53a6kgoddey) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (오늘)[v:time.DateTimeExpression]} 안에 들어온 (고양이)[v:KeyWord]들 찾아줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571460219643)
+}

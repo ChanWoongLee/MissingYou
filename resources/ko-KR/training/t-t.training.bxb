@@ -1,0 +1,10 @@
+train (t-tdjze3nvj39cbvdw8pxcd1xat) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (작년 6월)[v:time.DateTimeExpression]}에 유기된 (고양이)[v:KeyWord]들 보여줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571495458719)
+}
+train (t-tqg52jpdtcck2mnzb0jezhb2g) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (작년5월)[v:time.DateTimeExpression]} 쯤에 (강아지)[v:KeyWord] 잃어버렸어 찾아줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571556997911)
+}

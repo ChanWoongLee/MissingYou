@@ -1,0 +1,40 @@
+train (t-y307tobq51cnyx9ibb040wuis) {
+  utterance ("[g:Results] 미씽유에서 (고양이)[v:KeyWord] (인천)[v:City]에서 잃어버렸어요")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571063664788)
+}
+train (t-yin914lsh3sctsyg0t96rraz6) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (10월 1일)[v:time.DateTimeExpression]}에 (코 숏)[v:KeyWord]을 찾아줘라")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1570601452714)
+}
+train (t-yjldrllzgb8bjnqo4azeaxgm5) {
+  utterance ("[g:Results] (터키시앙고라)[v:KeyWord] 고양이 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570548566474)
+}
+train (t-yobt0dl2owlvq2deiosem00sr) {
+  utterance ("[g:Results] (샴)[v:KeyWord] 고양이 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570546975098)
+}
+train (t-yqlnp2uh40k9j2aesxtda6fzz) {
+  utterance ("[g:Results] (그레이트 덴)[v:KeyWord]을 찾아줘")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1570542026002)
+}
+train (t-ysrbbmf1ogqkqgyjo9b8wmzxz) {
+  utterance ("[g:Results] (유성구)[v:County]주변에서 분양가능한 (포메라니안)[v:KeyWord] 알려줘 최근으로")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCNVYlzfmleSSUO071TK8Pzi1IYmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1570549864429)
+}
+train (t-ywzadm81shiphtbfslx1vc6vk) {
+  utterance ("[g:Results] (렉돌)[v:KeyWord]을 {[g:CustomDateTimeExpression] (8월 2일)[v:time.DateTimeExpression]} 동안에 잃어버렸어")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1571067635539)
+}
+train (t-yyibe90153vxg5p66wbuhe7wo) {
+  utterance ("[g:Results] (하운드)[v:KeyWord]가 (김포)[v:County] 주변에서 사라졌어")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCNVYlzfmleSSUO071TK8Pzi1IYmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1571069147903)
+}

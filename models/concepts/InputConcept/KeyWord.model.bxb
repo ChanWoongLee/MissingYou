@@ -1,0 +1,5 @@
+name (KeyWord) {
+  description (종)
+   features{transient}
+}
+// vocab 추가

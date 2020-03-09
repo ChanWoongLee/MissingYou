@@ -1,0 +1,30 @@
+train (t-a1ryl1u9rrk74qegf0oqgpqgb) {
+  utterance (" [g:Results](서울시)[v:City]의 분실된 고양이인 (터키앙고라)[v:KeyWord]를 모두 찾아봐")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571070420710)
+}
+train (t-a8i9lka42sxnhgcidq079tfp7) {
+  utterance ("[g:Results] {[g:CustomDateTimeExpression] (일주일 전)[v:time.DateTimeExpression]}에 잃어버린 (골든 리트리버)[v:KeyWord] 찾아줘")
+  plan (Y2BlkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYw6CLVYlzaXFJfq5LYklqSGZuqmtFQVEqUC4/D4d93qmV4flFKQzSZZlleiVAHXpYtLIwMDIwMTADaQYgC8RmZAABFihmBoqA1QAA)
+  last-modified (1570115047566)
+}
+train (t-acxxl04gi28llqnw6n6yujb29) {
+  utterance ("[g:Results] (과천시)[v:County]에서 (강아지)[v:KeyWord] 찾아줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCNVYlzfmleSSUO071TK8Pzi1IYmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1571066459074)
+}
+train (t-afr9z2sfrqtkyp43gcpid5bv5) {
+  utterance ("[g:Results](인천)[v:City]에서 분실된 고양이의 품종 중에 (싱가퓨라)[v:KeyWord] 품종을 검색해줘")
+  plan (Y2BhkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYwyCJVYlzZkklDrO9UyvD84tSGJgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571070255239)
+}
+train (t-aqdml4sz3sk11h7dxbywmgk6t) {
+  utterance (" [g:Results]잊어버린 친구 중에 (터키시앙고라)[v:KeyWord]를 검색해주세요")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571070531852)
+}
+train (t-axo0muc1mg7o223d4n4s8ciwg) {
+  utterance ("[g:Results] 잃어버린 (슈나우저)[v:KeyWord] 찾아주겠니")
+  plan (Y2BmkMnMy0hMyqxIqtTLzSwuzsxLr8wv1QtKLS7NKSlmUMQqG5yaWJSc4ZiXmZuYg8MA79TK8PyiFAYmBkYgZgCSjAwgwATBAA==)
+  last-modified (1571069340801)
+}
