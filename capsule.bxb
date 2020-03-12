@@ -4,26 +4,21 @@ capsule {
   format (3)
   targets {
     target (bixby-mobile-ko-KR)
+    target (bixby-mobile-en-US){enabled (false)}
   }
-  runtime-flags {
-    no-filtering-with-validation
-    modern-default-view-behavior
-    concepts-inherit-super-type-features
-    modern-prompt-rejection
-    support-halt-effect-in-computed-inputs
-  }
+  runtime-version (4)
   store-sections{
     section (ArtAndLifestyle)
   }
 
-  marketplace-constraints{
-    country-constraints{
-      allowed-list{
-        allow (KR)
-      }
+  store-countries{
+    only{
+      allow (KR)
     }
   }
   capsule-imports{
-    import(viv.time) { version (2.92.45) as (time)}
+    import (viv.time) {
+      as (time) version (3.1.48)
+    }
   }
 }

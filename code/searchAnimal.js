@@ -8,7 +8,7 @@ var Data = require('./lib/saveData')
 var Compare = require('./lib/compareDate')
 
 
-module.exports.function = function searchAnimal(keyword, city, county, dateTimeExpression,adoption) {
+module.exports.function = function searchAnimal(keyword, city, county, dateTimeExpression, adoption) {
 
   var dogOrCat;
   keyword = keyword.replace(/(\s*)/g, "");
@@ -19,9 +19,9 @@ module.exports.function = function searchAnimal(keyword, city, county, dateTimeE
   whenStart = when[0];
   whenEnd = when[1];
   var input_adoption = 0;
-  if(adoption == undefined) input_adoption=1;
+  if (adoption == undefined) input_adoption = 1;
 
-  console.log(when[0] + " " + when[1]  + adoption);
+  console.log(when[0] + " " + when[1] + adoption);
   const cityData = require("./data/sido.js");
   city_code = cityData[city];
 

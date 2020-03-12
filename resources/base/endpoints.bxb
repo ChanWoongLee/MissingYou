@@ -4,5 +4,12 @@ endpoints {
       accepted-inputs (keyword, city, county, dateTimeExpression, adoption)
       local-endpoint (searchAnimal.js)
     }
+       
+    action-endpoint (OpenCall) {
+      accepted-inputs (tel)
+      local-endpoint (OpenCall.js)
+    }
   }
+
+  
 }

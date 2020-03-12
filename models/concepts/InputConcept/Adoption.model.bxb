@@ -1,4 +1,4 @@
 name (Adoption) {
-  description (종)
-  features{transient}
+	description (종)
+	features{transient}
 }
