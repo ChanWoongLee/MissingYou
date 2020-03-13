@@ -1,3 +1,11 @@
-text (URL) {
-  description (URL)
+structure (URL) {
+  description (전화혹은위치)
+  property (tel) {
+    type (Tel)
+    min (Optional) max (One)
+  }
+    property (url) {
+    type (Loc)
+    min (Optional) max (One)
+  }
 }

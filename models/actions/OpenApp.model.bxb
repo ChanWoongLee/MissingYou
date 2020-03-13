@@ -1,10 +1,14 @@
-action (OpenCall) {
+action (OpenApp) {
   description (URL을 통하여 app-lauch를 실행하는 action입니다)
   type(Constructor)
   collect {
     input (tel) {
       type (Tel)
-      min (Required) max (One)
+      min (Optional) max (One)
+    }
+      input (loc) {
+      type (Loc)
+      min (Optional) max (One)
     }
   }
   output (URL)

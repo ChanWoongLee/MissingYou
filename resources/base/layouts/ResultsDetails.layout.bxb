@@ -365,27 +365,44 @@ layout {
 					cell-card {
 						slot2 {
 							content{
-								primary("전화 걸기")
+								primary("전화 연결")
 								secondary("#{value(this.careNumber)}")
 								
 							}
-							
-							
-							// image-position (Start)
-							// image-aspect-ratio (1:1)
-							// image-object-position (Center)
-							
 						}
 						slot3{
 							image	{
 								url("blue_phone.png")
-								shape (Circle)
+								shape (Square)
 							}
 						}
 						on-click {
 							intent {
-								goal: OpenCall
+								goal: OpenApp
 								value:Tel$expr(this.careNumber)
+							}
+						}
+					}
+				}
+				if(carePlace != ''){
+					cell-card {
+						slot2 {
+							content{
+								primary("위치 검색")
+								secondary("#{value(this.carePlace)}")
+								
+							}
+						}
+						slot3{
+							image	{
+								url("naverMap.jpg")
+								shape (Square)
+							}
+						}
+						on-click {
+							intent {
+								goal: OpenApp
+								value:Loc$expr(this.orgName+' '+this.carePlace)
 							}
 						}
 					}

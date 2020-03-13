@@ -5,9 +5,9 @@ endpoints {
       local-endpoint (searchAnimal.js)
     }
        
-    action-endpoint (OpenCall) {
-      accepted-inputs (tel)
-      local-endpoint (OpenCall.js)
+    action-endpoint (OpenApp) {
+      accepted-inputs (tel,loc)
+      local-endpoint (OpenApp.js)
     }
   }
 
