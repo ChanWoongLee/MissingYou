@@ -360,23 +360,36 @@ layout {
 						}
 					}
 				}
-        divider
-        if(careNumber != ''){
-          cell-card {
-            slot2 {
-              content{
-                primary("전화 걸기")
-                secondary("#{value(this.careNumber)}")
-              }
-            }
-            on-click {
-              intent {
-                goal: OpenCall
-                value:$expr(careNumber)
-              }
-            }
-          }
-        }
+				divider
+				if(careNumber != ''){
+					cell-card {
+						slot2 {
+							content{
+								primary("전화 걸기")
+								secondary("#{value(this.careNumber)}")
+								
+							}
+							
+							
+							// image-position (Start)
+							// image-aspect-ratio (1:1)
+							// image-object-position (Center)
+							
+						}
+						slot3{
+							image	{
+								url("blue_phone.png")
+								shape (Circle)
+							}
+						}
+						on-click {
+							intent {
+								goal: OpenCall
+								value:Tel$expr(this.careNumber)
+							}
+						}
+					}
+				}
 				attribution-link{
 					label(유기동물 보호센터에서 더보기)
 					url("#{value(link)}")
